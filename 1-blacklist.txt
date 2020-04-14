@@ -1,0 +1,2 @@
+#Blocks Firefox's encrypted DNS
+use-application-dns.net
