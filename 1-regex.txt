@@ -173,7 +173,6 @@
 (^|\.)gmbill\.com$
 (^|\.)www\.gmbill\.com$
 (^|\.)supertechtricks\.com$
-(^|\.)stock\.adobe\.com$
 
 #SOCIAL MEDIA WEBSITES
 (^|\.)preview\.redd\.it$
