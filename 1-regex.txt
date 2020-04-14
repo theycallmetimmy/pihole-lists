@@ -1,4 +1,7 @@
 #ADS
+(^|\.)advrts.onelouder\.com$
+(^|\.)googleadservices\.net$
+(^|\.)www\.googleadservices\.net$
 (^|\.)doubleclick\.net$
 (^|\.)googleadservices\.com$
 (^|\.)app-measurement\.com$
@@ -173,6 +176,8 @@
 (^|\.)gmbill\.com$
 (^|\.)www\.gmbill\.com$
 (^|\.)supertechtricks\.com$
+(^|\.)elijahlist\.com$
+(^|\.)www\.elijahlist\.com$
 
 #SOCIAL MEDIA WEBSITES
 (^|\.)preview\.redd\.it$
