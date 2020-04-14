@@ -1,3 +1,10 @@
+#Added recently for displaying porn
+(^|\.)stock\.adobe\.com$
+(^|\.)fineartamerica\.com$
+(^|\.)www\.fineartamerica\.com$
+(^|\.)offset\.com$
+(^|\.)www\.offset\.com$
+#
 000001.skynetblogs.be
 000image.com
 0zz0.com
