@@ -81,7 +81,6 @@
 ^stat(s|istics)?[0-9]*[_.-]
 ^([a-z0-9]+[.])*(ads|cloudservices|logs)\.roku\.com
 (^|\.)log\.zoom\.us$
-
 #PORN
 (^|\.)tushy\.com$
 (^|\.)porntube\.com$
@@ -153,7 +152,6 @@
 (^|\.)iceimg\.net$
 (^|\.)gfycat\.com$
 (^|\.)www\.gfycat\.com$
-
 #OTHER-BLOCKED FOR PERSONAL REASONS
 (^|\.)leechers-paradise\.org$
 (^|\.)dauray\.co$
@@ -173,7 +171,6 @@
 (^|\.)gmbill\.com$
 (^|\.)www\.gmbill\.com$
 (^|\.)supertechtricks\.com$
-
 #SOCIAL MEDIA WEBSITES
 (^|\.)preview\.redd\.it$
 (^|\.)redd\.it$
@@ -185,12 +182,10 @@
 (^|\.)www\.snapchat\.com$
 (^|\.)twitter\.com$
 (^|\.)www\.twitter\.com$
-
 #Entire country web domain blocking
 #Below blocks all of China and Hongkong websites
 \.(cn|hk)$
 #Below blocks all of Russian websites
 \.ru$
-
 #Test website to make sure filtering is working
 (^|\.)grape\.com$
