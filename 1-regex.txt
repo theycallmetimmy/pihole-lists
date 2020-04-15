@@ -190,6 +190,8 @@
 (^|\.)www\.snapchat\.com$
 (^|\.)twitter\.com$
 (^|\.)www\.twitter\.com$
+(^|\.)imgur\.com$
+(^|\.)www\.imgur\.com$
 
 #Entire country web domain blocking
 #Below blocks all of China and Hongkong websites
