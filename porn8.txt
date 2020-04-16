@@ -163,3 +163,8 @@ createherstock.com
 www.createherstock.com
 awkwardstockphotos.com
 www.awkwardstockphotos.com
+a.thumbs.redditmedia.com
+b.thumbs.redditmedia.com
+oauth.reddit.com
+styles.redditmedia.com
+www.redditstatic.com
