@@ -170,3 +170,9 @@ styles.redditmedia.com
 www.redditstatic.com
 pix11.com
 www.pix11.com
+ballmemes.com
+www.ballmemes.com
+yostagram.com
+www.yostagram.com
+infobae.com
+www.infobae.com
