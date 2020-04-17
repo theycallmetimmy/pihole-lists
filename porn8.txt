@@ -168,3 +168,5 @@ b.thumbs.redditmedia.com
 oauth.reddit.com
 styles.redditmedia.com
 www.redditstatic.com
+pix11.com
+www.pix11.com
