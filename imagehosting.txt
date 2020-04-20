@@ -127,6 +127,8 @@ mybaku.az
 www.mybaku.az
 imgshare.io
 www.imgshare.io
+flickr.com
+www.flickr.com
 #End of image sites hosting porn
 
 000001.skynetblogs.be
@@ -247,7 +249,6 @@ file-bunker.org
 findphotos.ru
 fleo.com.ar
 flickhost.com
-flickr.com
 flodeo.com
 fond-ecran-image.com
 fondoimagenes.com
