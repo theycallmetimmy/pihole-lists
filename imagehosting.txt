@@ -129,6 +129,10 @@ imgshare.io
 www.imgshare.io
 flickr.com
 www.flickr.com
+deviantart.com
+www.deviantart.com
+deviantart.net
+www.deviantart.net
 #End of image sites hosting porn
 
 000001.skynetblogs.be
@@ -222,8 +226,6 @@ deinearmee.de
 de-mooiste-animaties.nl
 demotivers.com
 desktopwallpapergirls.com
-deviantart.com
-deviantart.net
 directupload.net
 divvyshot.com
 download.su
