@@ -8,7 +8,7 @@ in your favorite text editor or Webmin console and copy
 the contents of my list into your list. Save and reboot your pihole. The same applies for the 1-blacklist.txt and 1-black.list files.
 #
 #
-If you do not wish to go through the trouble of making and importing all the lists, I have compiled my favorite lists below that you can copy and paste into your pihole. Browse to your pihole admin page, and then go to Settings>Blocklists and paste all the URL's below into the available box. Click "Save and Update" and expect to wait around 10 minutes.
+If you do not wish to go through the trouble of making and importing all the lists, I have compiled my favorite lists below that you can copy and paste into your pihole. Browse to your pihole admin page, and then go to Settings>Blocklists and paste all the URL's below into the available box. Click "Save and Update" and expect to wait around 15 minutes.
 
 https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts 	
 	https://mirror1.malwaredomains.com/files/justdomains 	
@@ -58,6 +58,7 @@ https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 	https://raw.githubusercontent.com/theycallmetimmy/pihole-lists/master/porn8.txt 	
 	https://raw.githubusercontent.com/theycallmetimmy/pihole-lists/master/ads1.txt 	
 	https://raw.githubusercontent.com/theycallmetimmy/pihole-lists/master/ads2.txt 	
+	https://raw.githubusercontent.com/theycallmetimmy/pihole-lists/master/cosmetic-surgery.txt
 	https://raw.githubusercontent.com/theycallmetimmy/pihole-lists/master/costtraps.txt 	
 	https://raw.githubusercontent.com/theycallmetimmy/pihole-lists/master/crypto-coinmining.txt 	
 	https://raw.githubusercontent.com/theycallmetimmy/pihole-lists/master/dating.txt 	
