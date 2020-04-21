@@ -156,6 +156,10 @@
 (^|\.)iceimg\.net$
 (^|\.)gfycat\.com$
 (^|\.)www\.gfycat\.com$
+(^|\.)smartbeautyguide\.com$
+(^|\.)www\.smartbeautyguide\.com$
+(^|\.)surgery\.org$
+(^|\.)www\.surgery\.org$
 
 #OTHER-BLOCKED FOR PERSONAL REASONS
 (^|\.)leechers-paradise\.org$
