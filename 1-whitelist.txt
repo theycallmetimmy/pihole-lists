@@ -1,6 +1,4 @@
 device-api.urbanairship.com
-ngn.coop
-mail.ngn.coop
 gmail.com
 smtp.gmail.com
 fw-update2.smartthings.com
@@ -17,11 +15,7 @@ free-codecs.com
 dev.appboy.com
 nexus.officeapps.live.com
 www.openbible.info
-zrk.imgur.com
-m.imgur.com
-imgur.com
 docs.google.com
-yahoo.com
 alcpu.com
 www.alcpu.com
 www.free-codecs.com
@@ -30,7 +24,6 @@ abebooks.com
 www.abebooks.com
 data.abebooks.com
 www.tmz.com
-facebook.com
 img1.wsimg.com
 decide.mixpanel.com
 api.mixpanel.com
@@ -54,3 +47,5 @@ login.live.com
 redirector.gvt1.com
 fls-na.amazon.com
 s.amazon-adsystem.com
+sb-ssl.google.com
+suntrust.tt.omtrdc.net
