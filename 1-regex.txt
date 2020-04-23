@@ -184,6 +184,8 @@
 (^|\.)www\.elijahlist\.com$
 
 #SOCIAL MEDIA WEBSITES
+(^|\.)reddit\.com$
+(^|\.)www\.reddit\.com$
 (^|\.)preview\.redd\.it$
 (^|\.)redd\.it$
 (^|\.)i\.redd\.it$
