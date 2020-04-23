@@ -160,6 +160,10 @@
 (^|\.)www\.smartbeautyguide\.com$
 (^|\.)surgery\.org$
 (^|\.)www\.surgery\.org$
+#Wild card rule to block all domains with gettyimages in the url
+^(.+[-_.])??gettyimages[-.]
+^(.+[-_.])??plasticsurgery[-.]
+^(.+[-_.])??cosmetic[-.]
 
 #OTHER-BLOCKED FOR PERSONAL REASONS
 (^|\.)leechers-paradise\.org$
