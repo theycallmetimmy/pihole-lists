@@ -160,10 +160,13 @@
 (^|\.)www\.smartbeautyguide\.com$
 (^|\.)surgery\.org$
 (^|\.)www\.surgery\.org$
-#Wild card rule to block all domains with listed word in the url
+#Regex rule to block all domains with listed word in the url
+dermatology*\.com
+cosmetic*\.com
+#Regex rule to block exact domains no matter the country
 ^(.+[-_.])??gettyimages[-.]
 ^(.+[-_.])??plasticsurgery[-.]
-^(.+[-_.])??cosmetic[-.]
+
 
 #OTHER-BLOCKED FOR PERSONAL REASONS
 (^|\.)leechers-paradise\.org$
