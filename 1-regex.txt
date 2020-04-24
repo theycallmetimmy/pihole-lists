@@ -7,7 +7,9 @@
 #(^|\.)www\.[0-9][a-z].*breast|breasts|plasticsurgery|plasticsurgeon|surgery|surgical|cosmetic|cosmeticsurgery\.((com)|(edu)|(org))
 
 #Catch all rule for common porn names in domain name
-(^|\.)www\.[0-9][a-z].*breast|breasts|acrotomophilia[0-9][a-z].*[-.]
+#(^|\.)www\.[0-9][a-z].*adult(content|entertainment|image|pic)?[0-9][a-z].*[-.]
+#(^|\.)www\.[0-9][a-z].*amateur(brunette|cum|facial|girl|petite|teen|wife|woman|women)?[0-9][a-z].*[-.]
+#(^|\.)www\.[0-9][a-z].*ass(sex|h0le|hole|holz|munch|rammer|wipe|deep)?[0-9][a-z].*[-.]
 
 #ADS
 (^|\.)advrts.onelouder\.com$
@@ -75,7 +77,8 @@
 (^|\.)redshell\.io$
 (^|\.)treasuredata\.com$
 (^|\.)unity(|3d)\.com$
-(^|\.)unityads(|\.co)\.com$(^|\.)avanicks\.com$
+(^|\.)unityads(|\.co)\.com$
+(^|\.)avanicks\.com$
 (^|\.)adsafeprotected\.com$
 ^traff(ic)?[.-]
 ^(.+[_.-])?ad[sxv]?[0-9]*[_.-]
