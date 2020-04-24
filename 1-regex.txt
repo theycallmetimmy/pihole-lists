@@ -1,13 +1,13 @@
 #Discovered almost all cosmetic surgeons keep gallery of their patients freely available to browse
-#Catch all rule blocks all websites with individual words listed, no matter where in the URL it is listed
+#Catch all rule blocks all websites with individual words listed, no matter where in the domain name it is listed
 #and no matter what country code it is hiding behind
 (^|\.)www\.[0-9][a-z].*breast|breasts|plasticsurgery|plasticsurgeon|surgery|surgical|cosmetic|cosmeticsurgery[0-9][a-z].*[-.]
 
-#This one is a little more specific on the country code
+#This one is a little more specific on the country code but not needed because of the above rule
 #(^|\.)www\.[0-9][a-z].*breast|breasts|plasticsurgery|plasticsurgeon|surgery|surgical|cosmetic|cosmeticsurgery\.((com)|(edu)|(org))
 
-#Test area
-(^|\.)www\.[0-9][a-z].*\.((com)|(edu)|(org))/[0-9][a-z].*augmentation[0-9][a-z].*
+#Catch all rule for common porn names in domain name
+(^|\.)www\.[0-9][a-z].*breast|breasts|acrotomophilia[0-9][a-z].*[-.]
 
 #ADS
 (^|\.)advrts.onelouder\.com$
