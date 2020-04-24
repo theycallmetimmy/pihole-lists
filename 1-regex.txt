@@ -202,28 +202,27 @@
 (^|\.)www\.smartbeautyguide\.com$
 
 #Regex rule to block all domains with listed word at the end of the domain-doesn't work if www preceeds it
-#Rules commented out as catch-all exists at top of page
-#dermatology*\.com
-#(^|\.)www\.dermatology*\.com
-#cosmetic*\.com
-#(^|\.)www\.cosmetic*\.com
-#plasticsurgery*\.com
-#(^|\.)www\.plasticsurgery*\.com
-#breast*\.com
-#(^|\.)www\.breast*\.com
-#breasts*\.com
-#(^|\.)www\.breasts*\.com
-#plasticsurgeon*\.com
-#(^|\.)www\.plasticsurgeon*\.com
-#surgery*\.com
-#(^|\.)www\.surgery*\.com
+dermatology*\.com
+(^|\.)www\.dermatology*\.com
+cosmetic*\.com
+(^|\.)www\.cosmetic*\.com
+plasticsurgery*\.com
+(^|\.)www\.plasticsurgery*\.com
+breast*\.com
+(^|\.)www\.breast*\.com
+breasts*\.com
+(^|\.)www\.breasts*\.com
+plasticsurgeon*\.com
+(^|\.)www\.plasticsurgeon*\.com
+surgery*\.com
+(^|\.)www\.surgery*\.com
 
 #Regex rule to block all domains with listed word at the beginning of the domain
 #Rules commented out as catch-all exists at top of page
-#(^|\.)dermatology
-#(^|\.)cosmetic
-#(^|\.)plasticsurgery
-#(^|\.)breast
+(^|\.)dermatology
+(^|\.)cosmetic
+(^|\.)plasticsurgery
+(^|\.)breast
 
 #Regex rule to block exact domains no matter the country or web link(.org .net .com etc.)
 ^(.+[-_.])??gettyimages[-.]
