@@ -7,9 +7,37 @@
 #(^|\.)www\.[0-9][a-z].*breast|breasts|plasticsurgery|plasticsurgeon|surgery|surgical|cosmetic|cosmeticsurgery\.((com)|(edu)|(org))
 
 #Catch all rule for common porn names in domain name
-#(^|\.)www\.[0-9][a-z].*adult(content|entertainment|image|pic)?[0-9][a-z].*[-.]
-#(^|\.)www\.[0-9][a-z].*amateur(brunette|cum|facial|girl|petite|teen|wife|woman|women)?[0-9][a-z].*[-.]
-#(^|\.)www\.[0-9][a-z].*ass(sex|h0le|hole|holz|munch|rammer|wipe|deep)?[0-9][a-z].*[-.]
+(^|\.)www\.[0-9][a-z].*adultcontent|adultentertainment|adultimage|adultpic|amateurbrunette|amateurcum[0-9][a-z].*[-.]
+(^|\.)www\.[0-9][a-z].*amateurfacial|amateurgirl|amateurpetite|amateurteen|amateurwife|amateurwoman|amateurwomen[0-9][a-z].*[-.]
+(^|\.)www\.[0-9][a-z].*analbest|bestanal|analgif|anilingus|autoerotic[0-9][a-z].*[-.]
+(^|\.)www\.[0-9][a-z].*arsehole|asssex|assh0le|asshole|assholz|assmunch|assrammer|asswipe|assdeep|azzhole[0-9][a-z].*[-.]
+(^|\.)www\.[0-9][a-z].*babeland|babybatter|ballgravy|balllicking|b00b|ballsack|ballsucking|bangbro|bareback|barelylegal[0-9][a-z].*[-.]
+(^|\.)www\.[0-9][a-z].*barenaked|bassterd|bastard|beastiality|bestiality|bewb|bdsm|bigblack|bigknockers|bikini|biatch[0-9][a-z].*[-.]
+(^|\.)www\.[0-9][a-z].*bitch|blackcock|blondeaction|blowingcum|blowjob|blowyourcum|blowyourload|bluewaffle|blumpkin[0-9][a-z].*[-.]
+(^|\.)www\.[0-9][a-z].*boffing|bollock|bondage|boner|boob|bootycall|brazilianwax|brunetteaction|bukkake|busty[0-9][a-z].*[-.]
+(^|\.)www\.[0-9][a-z].*buttcheeks|butthole|buttpirate|buttwipe|camgirl|cameltoe|camslut|carpetmunch|circlejerk[0-9][a-z].*[-.]
+(^|\.)www\.[0-9][a-z].*clitoris|c0ck|cock|cosplay|creampie|cumamateur|cumblast|cumcovered|cumface|cumfacial[0-9][a-z].*[-.]
+(^|\.)www\.[0-9][a-z].*cumload|cumshot|cumwith|cummedon|cummingin|cunnilingus|cunt|deeppenetration|deepthroat[0-9][a-z].*[-.]
+(^|\.)www\.[0-9][a-z].*deepteen|demotivation|deviantart|dick|dild0|dildo|dingdong|dominatrick|dominatrix[0-9][a-z].*[-.]
+(^|\.)www\.[0-9][a-z].*doublepenetration|ejaculate|ejakulate|ejaculation|enema|erotic|erotism|eurobabe|exoticgirl[0-9][a-z].*[-.]
+(^|\.)www\.[0-9][a-z].*exoticteen|exoticwoman|exoticwomen|facialcum|facialfiesta|fagit|faggit|faggot|fags|fagz[0-9][a-z].*[-.]
+(^|\.)www\.[0-9][a-z].*fappening|fapping|femalefetish|femalesquirt|femdom|fetishfix|fleshlight|fuck|fudgepacker[0-9][a-z].*[-.]
+(^|\.)www\.[0-9][a-z].*fukker|fukkin|futanari|gayboy|gaygirl|gays|gayz|girlpinup|girlnextdoor|girlsgonewild[0-9][a-z].*[-.]
+(^|\.)www\.[0-9][a-z].*girlstreaking|goddam|handjob|hardcore|hentai|hooters|horni|horny|hotadult|hotass|hotbabe[0-9][a-z].*[-.]
+(^|\.)www\.[0-9][a-z].*hotbody|hotbutt|hotchick|hotgirls|hotmobile|hotredhead|hotteen|hotwife|hotwoman|hotwomen[0-9][a-z].*[-.]
+(^|\.)www\.[0-9][a-z].*hugecock|hugeknockers|hugemelons|inherass|inherbutt|jackoff|jerkoff|jizz|juggs|kinkster[0-9][a-z].*[-.]
+(^|\.)www\.[0-9][a-z].*kinky|lesbian|lezzian|lipshitz|loadofcum|masochism|masochist|massivecock|massterbait|masstrbait[0-9][a-z].*[-.]
+(^|\.)www\.[0-9][a-z].*masstrbate|masterbait|masterbate|masturbate|milf|muffdiv|naked|nextdoorgirl|nigger|notsafe4work[0-9][a-z].*[-.]
+(^|\.)www\.[0-9][a-z].*notsafeforwork|niceass|nicebutt|nicecock|nicemelons|nicerack|nipslip|nipple|ns4w|nsfw[0-9][a-z].*[-.]
+(^|\.)www\.[0-9][a-z].*nude|nudity|nutsack|nympho|orgasim|orgasm|orgasum|orgy|partygirl|peeing|perfectgirl[0-9][a-z].*[-.]
+(^|\.)www\.[0-9][a-z].*pinupgirl|pinupsgirl|pissing|porn|p0rn|pr0n|prettylips|pussy|queef|queer|rectum|redhead[0-9][a-z].*[-.]
+(^|\.)www\.[0-9][a-z].*replygirls|scank|schlong|screwing|scrotum|sensual|sexy|shemale|sh!t|shotofcum|skank[0-9][a-z].*[-.]
+(^|\.)www\.[0-9][a-z].*slut|smut|snapchat|spankedteen|spankteen|spankme|spankteen|spankwoman|spankwomen[0-9][a-z].*[-.]
+(^|\.)www\.[0-9][a-z].*spankyou|splooge|sportygirl|sportywoman|sportywomen|stripper|suckmy|suckingcock|suckingdick[0-9][a-z].*[-.]
+(^|\.)www\.[0-9][a-z].*sultry|teenass|teengirl|teenpenetration|teenpic|threesome|tightskirt|titties|tongueina|topless[0-9][a-z].*[-.]
+(^|\.)www\.[0-9][a-z].*twat|twogirls|undressing|upskirt|vag1na|vagina|voyeur|vulva|wank|wetdream|wh0re|whore[0-9][a-z].*[-.]
+(^|\.)www\.[0-9][a-z].*withcum|xrated|x-rated|yaoi|yiffy|zoophilia[0-9][a-z].*[-.]
+\.xxx$
 
 #ADS
 (^|\.)advrts.onelouder\.com$
