@@ -162,21 +162,56 @@
 (^|\.)www\.surgery\.org$
 #Regex rule to block all domains with listed word at the end of the domain-doesn't work if www preceeds it
 dermatology*\.com
+(^|\.)www\.dermatology*\.com
 cosmetic*\.com
+(^|\.)www\.cosmetic*\.com
 plasticsurgery*\.com
-breast*\.com
 (^|\.)www\.plasticsurgery*\.com
+breast*\.com
+(^|\.)www\.breast*\.com
+breasts*\.com
+(^|\.)www\.breasts*\.com
+plasticsurgeon*\.com
+(^|\.)www\.plasticsurgeon*\.com
+surgery*\.com
+(^|\.)www\.surgery*\.com
 #Regex rule to block all domains with listed word at the beginning of the domain
 (^|\.)dermatology
 (^|\.)cosmetic
 (^|\.)plasticsurgery
 (^|\.)breast
-#Regex rule to block exact domains no matter the country
+#Regex rule to block exact domains no matter the country or web link(.org .net .com etc.)
 ^(.+[-_.])??gettyimages[-.]
 ^(.+[-_.])??plasticsurgery[-.]
 #Testing area
-(^|\.)www\.([0-9][a-z]+)plasticsurgery*\.((com)|(net)|(org))$
-
+dermatology*\.com
+(^|\.)www\.dermatology*\.com
+(^|\.)www\.[0-9][a-z].*dermatology
+cosmetic*\.com
+(^|\.)www\.cosmetic*\.com
+(^|\.)www\.[0-9][a-z].*cosmetic
+cosmeticsurgery*\.com
+(^|\.)www\.cosmeticsurgery*\.com
+(^|\.)www\.[0-9][a-z].*cosmeticsurgery
+cosmeticsurgeon*\.com
+(^|\.)www\.cosmeticsurgeon*\.com
+(^|\.)www\.[0-9][a-z].*cosmeticsurgeon
+plasticsurgery*\.com
+(^|\.)www\.plasticsurgery*\.com
+(^|\.)www\.[0-9][a-z].*plasticsurgery
+breast*\.com
+(^|\.)www\.breast*\.com
+(^|\.)www\.[0-9][a-z].*breast
+breasts*\.com
+(^|\.)www\.breasts*\.com
+(^|\.)www\.[0-9][a-z].*breasts
+plasticsurgeon*\.com
+(^|\.)www\.plasticsurgeon*\.com
+(^|\.)www\.[0-9][a-z].*plasticsurgeon
+surgery*\.com
+(^|\.)www\.surgery*\.com
+(^|\.)www\.[0-9][a-z].*surgery
+#(^|\.)www\.[0-9][a-z].*((breast)|(breasts)|(plasticsurgery)|(plasticsurgeon)|(surgery)|(cosmetic)(cosmeticsurgery))\.((com)|(edu)|(org))
 
 #OTHER-BLOCKED FOR PERSONAL REASONS
 (^|\.)leechers-paradise\.org$
