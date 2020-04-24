@@ -160,11 +160,12 @@
 (^|\.)www\.smartbeautyguide\.com$
 (^|\.)surgery\.org$
 (^|\.)www\.surgery\.org$
-#Regex rule to block all domains with listed word at the end of the domain
+#Regex rule to block all domains with listed word at the end of the domain-doesn't work if www preceeds it
 dermatology*\.com
 cosmetic*\.com
 plasticsurgery*\.com
 breast*\.com
+(^|\.)www\.plasticsurgery*\.com
 #Regex rule to block all domains with listed word at the beginning of the domain
 (^|\.)dermatology
 (^|\.)cosmetic
@@ -173,6 +174,8 @@ breast*\.com
 #Regex rule to block exact domains no matter the country
 ^(.+[-_.])??gettyimages[-.]
 ^(.+[-_.])??plasticsurgery[-.]
+#Testing area
+(^|\.)www\.([0-9][a-z]+)plasticsurgery*\.((com)|(net)|(org))$
 
 
 #OTHER-BLOCKED FOR PERSONAL REASONS
