@@ -160,9 +160,12 @@
 (^|\.)www\.smartbeautyguide\.com$
 (^|\.)surgery\.org$
 (^|\.)www\.surgery\.org$
-#Regex rule to block all domains with listed word in the url-only works if word is at the end of the website name
+#Regex rule to block all domains with listed word at the end of the domain
 dermatology*\.com
 cosmetic*\.com
+plasticsurgery*\.com
+breast*\.com
+#Regex rule to block all domains with listed word at the beginning of the domain
 (^|\.)dermatology
 (^|\.)cosmetic
 (^|\.)plasticsurgery
