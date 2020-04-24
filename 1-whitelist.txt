@@ -49,3 +49,4 @@ fls-na.amazon.com
 s.amazon-adsystem.com
 sb-ssl.google.com
 suntrust.tt.omtrdc.net
+www.bible.ca
