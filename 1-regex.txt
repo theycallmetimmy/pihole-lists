@@ -165,6 +165,8 @@ dermatology*\.com
 cosmetic*\.com
 (^|\.)dermatology
 (^|\.)cosmetic
+(^|\.)plasticsurgery
+(^|\.)breast
 #Regex rule to block exact domains no matter the country
 ^(.+[-_.])??gettyimages[-.]
 ^(.+[-_.])??plasticsurgery[-.]
