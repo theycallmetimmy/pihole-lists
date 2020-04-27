@@ -1,10 +1,10 @@
 #Discovered almost all cosmetic surgeons keep gallery of their patients freely available to browse
 #Catch all rule blocks all websites with individual words listed, no matter where in the domain name it is listed
 #and no matter what country code it is hiding behind
-(^|\.)www\.[0-9][a-z].*aesthetic|breast|breasts|plasticsurgery|plasticsurgeon|surgery|surgical|cosmetic|cosmeticsurgery[0-9][a-z].*[-.]
+(^|\.)www\.[0-9][a-z].*aesthetic|breast|breasts|cosmetic|cosmeticsurgery|labiaplast|plasticsurgery|plasticsurgeon|surgeon|surgery|surgical|vaginoplast[0-9][a-z].*[-.]
 
 #This one is a little more specific on the country code but not needed because of the above rule
-#(^|\.)www\.[0-9][a-z].*aesthetic|breast|breasts|plasticsurgery|plasticsurgeon|surgery|surgical|cosmetic|cosmeticsurgery\.((com)|(edu)|(org))
+#(^|\.)www\.[0-9][a-z].*aesthetic|breast|breasts|cosmetic|cosmeticsurgery|labiaplast|plasticsurgery|plasticsurgeon|surgeon|surgery|surgical|vaginoplast\.((com)|(edu)|(org))
 
 #Catch all rule for common porn names in domain name
 (^|\.)www\.[0-9][a-z].*adultcontent|adultentertainment|adultimage|adultpic|amateurbrunette|amateurcum[0-9][a-z].*[-.]
