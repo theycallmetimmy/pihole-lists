@@ -25,8 +25,8 @@
 (^|\.)www\.[0-9][a-z].*fukker|fukkin|futanari|gayboy|gaygirl|gays|gayz|girlpinup|girlnextdoor|girlsgonewild[0-9][a-z].*[-.]
 (^|\.)www\.[0-9][a-z].*girlstreaking|goddam|handjob|hardcore|hentai|hooters|horni|horny|hotadult|hotass|hotbabe[0-9][a-z].*[-.]
 (^|\.)www\.[0-9][a-z].*hotbody|hotbutt|hotchick|hotgirls|hotmobile|hotredhead|hotteen|hotwife|hotwoman|hotwomen[0-9][a-z].*[-.]
-(^|\.)www\.[0-9][a-z].*hugecock|hugeknockers|hugemelons|inherass|inherbutt|jackoff|jerkoff|jizz|juggs|kinkster[0-9][a-z].*[-.]
-(^|\.)www\.[0-9][a-z].*kinky|lesbian|lezzian|lipshitz|loadofcum|masochism|masochist|massivecock|massterbait|masstrbait[0-9][a-z].*[-.]
+(^|\.)www\.[0-9][a-z].*hugecock|hugeknockers|hugemelons|inherass|inherbutt|jackoff|jerkoff|jizz|juggs|kinkster|kinky[0-9][a-z].*[-.]
+(^|\.)www\.[0-9][a-z].*lingerie|lesbian|lezzian|lipshitz|loadofcum|masochism|masochist|massivecock|massterbait|masstrbait[0-9][a-z].*[-.]
 (^|\.)www\.[0-9][a-z].*masstrbate|masterbait|masterbate|masturbate|milf|muffdiv|naked|nextdoorgirl|nigger|notsafe4work[0-9][a-z].*[-.]
 (^|\.)www\.[0-9][a-z].*notsafeforwork|niceass|nicebutt|nicecock|nicemelons|nicerack|nipslip|nipple|ns4w|nsfw[0-9][a-z].*[-.]
 (^|\.)www\.[0-9][a-z].*nude|nudity|nutsack|nympho|orgasim|orgasm|orgasum|orgy|partygirl|peeing|perfectgirl[0-9][a-z].*[-.]
@@ -34,8 +34,8 @@
 (^|\.)www\.[0-9][a-z].*replygirls|scank|schlong|screwing|scrotum|sensual|sexy|shemale|sh!t|shotofcum|skank[0-9][a-z].*[-.]
 (^|\.)www\.[0-9][a-z].*slut|smut|snapchat|spankedteen|spankteen|spankme|spankteen|spankwoman|spankwomen[0-9][a-z].*[-.]
 (^|\.)www\.[0-9][a-z].*spankyou|splooge|sportygirl|sportywoman|sportywomen|stripper|suckmy|suckingcock|suckingdick[0-9][a-z].*[-.]
-(^|\.)www\.[0-9][a-z].*sultry|teenass|teengirl|teenpenetration|teenpic|threesome|tightskirt|titties|tongueina|topless[0-9][a-z].*[-.]
-(^|\.)www\.[0-9][a-z].*twat|twogirls|undressing|upskirt|vag1na|vagina|voyeur|vulva|wank|wetdream|wh0re|whore[0-9][a-z].*[-.]
+(^|\.)www\.[0-9][a-z].*sultry|teenass|teengirl|teenpenetration|teenpic|thong|threesome|tightskirt|titties|tongueina[0-9][a-z].*[-.]
+(^|\.)www\.[0-9][a-z].*topless|twat|twogirls|undressing|upskirt|vag1na|vagina|voyeur|vulva|wank|wetdream|wh0re|whore[0-9][a-z].*[-.]
 (^|\.)www\.[0-9][a-z].*withcum|xrated|x-rated|yaoi|yiffy|zoophilia[0-9][a-z].*[-.]
 \.xxx$
 
