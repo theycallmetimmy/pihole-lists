@@ -39,11 +39,13 @@
 (^|\.)www\.[0-9][a-z].*withcum|xrated|x-rated|yaoi|yiffy|zoophilia[0-9][a-z].*[-.]
 \.xxx$
 \.adult$
+\.cam$
 \.porn$
 \.sex$
 \.sx$
 \.sexy$
 \.sucks$
+\.tube$
 \.wang$
 \.webcam$
 \.exposed$
