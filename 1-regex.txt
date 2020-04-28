@@ -48,6 +48,7 @@
 \.tube$
 \.wang$
 \.webcam$
+\.wtf$
 \.exposed$
 
 #ADS
