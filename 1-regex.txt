@@ -38,7 +38,15 @@
 (^|\.)www\.[0-9][a-z].*topless|twat|twogirls|undressing|upskirt|vag1na|vagina|voyeur|vulva|wank|wetdream|wh0re|whore[0-9][a-z].*[-.]
 (^|\.)www\.[0-9][a-z].*withcum|xrated|x-rated|yaoi|yiffy|zoophilia[0-9][a-z].*[-.]
 \.xxx$
+\.adult$
+\.porn$
+\.sex$
+\.sx$
 \.sexy$
+\.sucks$
+\.wang$
+\.webcam$
+\.exposed$
 
 #ADS
 (^|\.)advrts.onelouder\.com$
