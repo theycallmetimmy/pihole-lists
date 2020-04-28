@@ -7,7 +7,7 @@
 #(^|\.)www\.[0-9][a-z].*aesthetic|breast|breasts|cosmetic|cosmeticsurgery|labiaplast|mastopexy|plasticsurgery|plasticsurgeon|surgeon|surgery|surgical|vaginoplast\.((com)|(edu)|(org))
 
 #Catch all rule for common porn names in domain name
-(^|\.)www\.[0-9][a-z].*adultcontent|adultentertainment|adultimage|adultpic|amateurbrunette|amateurcum[0-9][a-z].*[-.]
+(^|\.)www\.[0-9][a-z].*adultcontent|adultentertainment|adultimage|adultpic|amateur|amateurbrunette|amateurcum[0-9][a-z].*[-.]
 (^|\.)www\.[0-9][a-z].*amateurfacial|amateurgirl|amateurpetite|amateurteen|amateurwife|amateurwoman|amateurwomen[0-9][a-z].*[-.]
 (^|\.)www\.[0-9][a-z].*analbest|bestanal|analgif|anilingus|autoerotic[0-9][a-z].*[-.]
 (^|\.)www\.[0-9][a-z].*arsehole|asssex|assh0le|asshole|assholz|assmunch|assrammer|asswipe|assdeep|azzhole[0-9][a-z].*[-.]
