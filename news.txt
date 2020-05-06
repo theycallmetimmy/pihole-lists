@@ -1,3 +1,7 @@
+thehill.com
+www.thehill.com
+cnbc.com
+www.cnbc.com
 politico.com
 www.politico.com
 ajc.com
