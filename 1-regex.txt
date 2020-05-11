@@ -60,7 +60,6 @@
 (^|\.)app-measurement\.com$
 (^|\.)crashlytics\.com$
 (^|\.)liveadvert\.com$
-(\?<!lo)ads\\.
 (^|\.)tritondigital\.com$
 /displayadframe.
 (^|\.)adsimilate\.com$
@@ -85,7 +84,6 @@
 ^traff(ic)?[-.]
 ^https?://([A-Za-z0-9.-]*\.)?secure\.footprint\.net/
 ^https?://([A-Za-z0-9.-]*\.)?match\.com/
-^https?://([A-Za-z0-9.-]*\.)?clicks\.beap\.bc\.yahoo(\.\w{2}\.\w{2}|\.\w{2 ,4})/
 ^https?://([A-Za-z0-9.-]*\.)?sitescout(\.\w{2}\.\w{2}|\.\w{2,4})/
 ^https?://([A-Za-z0-9.-]*\.)?appnexus(\.\w{2}\.\w{2}|\.\w{2,4})/
 ^https?://([A-Za-z0-9.-]*\.)?evidon(\.\w{2}\.\w{2}|\.\w{2,4})/
