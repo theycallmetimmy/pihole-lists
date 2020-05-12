@@ -118,8 +118,6 @@
 (^|\.)unityads(|\.co)\.com$
 (^|\.)avanicks\.com$
 (^|\.)adsafeprotected\.com$
-^traff(ic)?[.-]
-^(.+[_.-])?ad[sxv]?[0-9]*[_.-]
 ^(.+[_.-])?ad[sxv]?[0-9]*[_.-]
 ^(.+[_.-])?adse?rv(er?|ice)?s?[0-9]*[_.-]
 ^(.+[_.-])?telemetry[_.-]
@@ -182,6 +180,7 @@
 (^|\.)latestoninternet\.website$
 (^|\.)xkinkedin\.com$
 (^|\.)www\.xkinkedin\.com$
+(^|\.)purgatoryx\.com$
 (^|\.)www\.mydaughtershotfriend\.com$
 (^|\.)mydaughtershotfriend\.com$
 (^|\.)allfunntoovideoss\.xyz$
@@ -189,8 +188,6 @@
 (^|\.)toughlovex\.com$
 (^|\.)teenhub\.net$
 (^|\.)www\.teenhub\.net$
-(^|\.)avanicks\.com$
-(^|\.)purgatoryx\.com$
 (^|\.)xxxrub\.com$
 (^|\.)theuberporn\.com$
 (^|\.)www\.theuberporn\.com$
