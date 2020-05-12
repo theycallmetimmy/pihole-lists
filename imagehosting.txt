@@ -186,6 +186,9 @@ seventeen.com
 www.seventeen.com
 bustle.com
 www.bustle.com
+etsystatic.com
+etsy.com
+www.etsy.com
 #End of image sites hosting porn
 
 000001.skynetblogs.be
@@ -811,6 +814,3 @@ zeec.de
 zeusbox.com
 zonerama.com
 zongg.ch
-etsystatic.com
-etsy.com
-www.etsy.com
