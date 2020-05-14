@@ -50,3 +50,5 @@ s.amazon-adsystem.com
 sb-ssl.google.com
 suntrust.tt.omtrdc.net
 www.bible.ca
+northwesternmutualcx.co1.qualtrics.com
+manifest.prod.boltdns.net
