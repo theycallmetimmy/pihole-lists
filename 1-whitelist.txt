@@ -52,3 +52,4 @@ suntrust.tt.omtrdc.net
 www.bible.ca
 northwesternmutualcx.co1.qualtrics.com
 manifest.prod.boltdns.net
+github.com
