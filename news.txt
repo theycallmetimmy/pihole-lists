@@ -1,3 +1,9 @@
+dailymail.co.uk
+www.dailymail.co.uk
+canadianliving.com
+www.canadianliving.com
+popsugar.com
+www.popsugar.com
 thefederalist.com
 www.thefederalist.com
 tubefilter.com
