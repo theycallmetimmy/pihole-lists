@@ -40,6 +40,7 @@
 \.xxx$
 \.adult$
 \.cam$
+\.pictures$
 \.porn$
 \.sex$
 \.sx$
