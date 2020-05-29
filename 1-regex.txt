@@ -36,7 +36,7 @@
 (^|\.)www\.[0-9][a-z].*spankyou|splooge|sportygirl|sportywoman|sportywomen|stripper|suckmy|suckingcock|suckingdick[0-9][a-z].*[-.]
 (^|\.)www\.[0-9][a-z].*sultry|teenass|teengirl|teenpenetration|teenpic|thong|threesome|tightskirt|titties|tongueina[0-9][a-z].*[-.]
 (^|\.)www\.[0-9][a-z].*topless|twat|twogirls|undressing|upskirt|vag1na|vagina|voyeur|vulva|wank|wetdream|wh0re|whore[0-9][a-z].*[-.]
-(^|\.)www\.[0-9][a-z].*webcam|withcum|xrated|x-rated|xxx|yaoi|yiffy|zoophilia|sex|cambabe[0-9][a-z].*[-.]
+(^|\.)www\.[0-9][a-z].*webcam|withcum|xrated|x-rated|xxx|yaoi|yiffy|zoophilia|sex|cambabe|camchick|gonewild[0-9][a-z].*[-.]
 \.xxx$
 \.xyz$
 \.adult$
@@ -234,6 +234,7 @@ surgery*\.com
 (^|\.)cosmetic
 (^|\.)plasticsurgery
 (^|\.)breast
+(^|\.)cam
 
 #Regex rule to block exact domains no matter the country or web link(.org .net .com etc.)
 ^(.+[-_.])??gettyimages[-.]
