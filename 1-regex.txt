@@ -1,7 +1,12 @@
 #Discovered almost all cosmetic surgeons keep gallery of their patients freely available to browse
 #Catch all rule blocks all websites with individual words listed, no matter where in the domain name it is listed
 #and no matter what country code it is hiding behind
-(^|\.)www\.[0-9][a-z].*aesthetic|aesthetics|breast|breasts|cosmetic|cosmeticsurgery|labiaplast|mastopexy|plasticsurgery|plasticsurgeon|surgeon|surgery|surgical|vaginoplast[0-9][a-z].*[-.]
+(^|\.)www\.[0-9][a-z].*aesthetic|aesthetics|breast|breasts|cosmetic|cosmeticsurgery|labiaplast|mastopexy|plasticsurgery|plasticsurgeon|surgeon|surgery|surgical|vaginoplast|obgyn[0-9][a-z].*[-.]
+
+#This rule blocks all occurances of "dr" and "md" inside a domain name as long as a vowel doesn't follow "dr" or "md"
+#This rule is used to block doctors websites with "dr" or "md" in the domain name
+dr[^aeiou]
+md[^aeiou]
 
 #This one is a little more specific on the country code but not needed because of the above rule
 #(^|\.)www\.[0-9][a-z].*aesthetic|breast|breasts|cosmetic|cosmeticsurgery|labiaplast|mastopexy|plasticsurgery|plasticsurgeon|surgeon|surgery|surgical|vaginoplast\.((com)|(edu)|(org))
