@@ -59,6 +59,7 @@ md[^aeiou]
 \.webcam$
 \.wtf$
 \.exposed$
+(^|\.)cam
 
 #ADS
 (^|\.)advrts.onelouder\.com$
