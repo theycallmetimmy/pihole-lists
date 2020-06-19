@@ -5,8 +5,9 @@
 
 #This rule blocks all occurances of "dr" and "md" inside a domain name as long as a vowel doesn't follow "dr" or "md"
 #This rule is used to block doctors websites with "dr" or "md" in the domain name
-dr[^aeiou]
-md[^aeiou]
+#Disabled on 6-19-20, too many false positives. Caught periods and dashes in legitimate websites
+#dr[^aeiou]
+#md[^aeiou]
 
 #This one is a little more specific on the country code but not needed because of the above rule
 #(^|\.)www\.[0-9][a-z].*aesthetic|breast|breasts|cosmetic|cosmeticsurgery|labiaplast|mastopexy|plasticsurgery|plasticsurgeon|surgeon|surgery|surgical|vaginoplast\.((com)|(edu)|(org))
