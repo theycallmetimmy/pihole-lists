@@ -55,3 +55,9 @@ manifest.prod.boltdns.net
 github.com
 slscr.update.microsoft.com
 account.np.ac.playstation.net
+(\.|^)imdb\.com$
+ctldl.windowsupdate.com
+dmd.metaservices.microsoft.com
+unagi-na.amazon.com
+unagi.amazon.ca
+ipv6.unagi-na.amazon.com
