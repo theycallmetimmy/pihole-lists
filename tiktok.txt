@@ -27,6 +27,9 @@
 0.0.0.0 sgali3.l.byteoversea.net
 0.0.0.0 tiktokcdn-com.akamaized.net
 0.0.0.0 ibytedtos.com
+tiktok.com
+www.tiktok.com
+m.tiktok.com
 
 # ===============================================================
 
