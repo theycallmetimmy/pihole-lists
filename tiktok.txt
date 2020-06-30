@@ -31,6 +31,9 @@ tiktok.com
 www.tiktok.com
 m.tiktok.com
 
+#Block WeChat
+qq.com
+qpic.cn
 # ===============================================================
 
 (^|\.)muscdn\.com$
