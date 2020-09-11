@@ -323,3 +323,7 @@ plasticsurgeon*\.com
 
 #Test website to make sure filtering is working
 (^|\.)grape\.com$
+
+#Attempt at blocking everything on the TOR/Onion network. Yeah I know, good luck.
+(^|\.)www\.[0-9][a-z].*torbot|orbot|orfox|torbirdy[0-9][a-z].*[-.]
+\.onion$
