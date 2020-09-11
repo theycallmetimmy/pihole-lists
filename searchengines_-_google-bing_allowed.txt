@@ -1,3 +1,8 @@
+web.archive.org
+www.web.archive.org
+wayback.archive.org
+archive.org
+www.archive.org
 ecosia.org
 www.ecosia.org
 ekoru.org
