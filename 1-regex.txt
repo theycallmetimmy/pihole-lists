@@ -241,6 +241,7 @@ surgery*\.com
 (^|\.)cosmetic
 (^|\.)plasticsurgery
 (^|\.)breast
+#Disabled below for too many false positives
 (^|\.)cam
 
 #Regex rule to block exact domains no matter the country or web link(.org .net .com etc.)
