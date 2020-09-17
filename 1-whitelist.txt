@@ -61,3 +61,4 @@ dmd.metaservices.microsoft.com
 unagi-na.amazon.com
 unagi.amazon.ca
 ipv6.unagi-na.amazon.com
+sos.campmobile.net
