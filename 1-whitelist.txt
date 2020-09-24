@@ -62,3 +62,4 @@ unagi-na.amazon.com
 unagi.amazon.ca
 ipv6.unagi-na.amazon.com
 sos.campmobile.net
+aax-us-east.amazon-adsystem.com
