@@ -3,16 +3,16 @@
 #and no matter what country code it is hiding behind
 (^|\.)www\.[0-9][a-z].*aesthetic|aesthetics|breast|breasts|cosmetic|cosmeticsurgery|labiaplast|mastopexy|plasticsurgery|plasticsurgeon|surgeon|surgery|surgical|vaginoplast|obgyn[0-9][a-z].*[-.]
 
+#This one is a little more specific on the country code but not needed because of the above rule
+#(^|\.)www\.[0-9][a-z].*aesthetic|breast|breasts|cosmetic|cosmeticsurgery|labiaplast|mastopexy|plasticsurgery|plasticsurgeon|surgeon|surgery|surgical|vaginoplast|obgyn\.((com)|(edu)|(org))
+
 #This rule blocks all occurances of "dr" and "md" inside a domain name as long as a vowel doesn't follow "dr" or "md"
 #This rule is used to block doctors websites with "dr" or "md" in the domain name
 #Disabled on 6-19-20, too many false positives. Caught periods and dashes in legitimate websites
 #dr[^aeiou]
 #md[^aeiou]
 
-#This one is a little more specific on the country code but not needed because of the above rule
-#(^|\.)www\.[0-9][a-z].*aesthetic|breast|breasts|cosmetic|cosmeticsurgery|labiaplast|mastopexy|plasticsurgery|plasticsurgeon|surgeon|surgery|surgical|vaginoplast\.((com)|(edu)|(org))
-
-#Catch all rule for common porn names in domain name
+#Catch all rules for common porn names in domain name
 (^|\.)www\.[0-9][a-z].*adultcontent|adultentertainment|adultimage|adultpic|amateur|amateurbrunette|amateurcum[0-9][a-z].*[-.]
 (^|\.)www\.[0-9][a-z].*amateurfacial|amateurgirl|amateurpetite|amateurteen|amateurwife|amateurwoman|amateurwomen[0-9][a-z].*[-.]
 (^|\.)www\.[0-9][a-z].*analbest|bestanal|analgif|anilingus|autoerotic[0-9][a-z].*[-.]
@@ -43,6 +43,9 @@
 (^|\.)www\.[0-9][a-z].*sultry|teenass|teengirl|teenpenetration|teenpic|thong|threesome|tightskirt|titties|tongueina[0-9][a-z].*[-.]
 (^|\.)www\.[0-9][a-z].*topless|twat|twogirls|undressing|upskirt|vag1na|vagina|voyeur|vulva|wank|wetdream|wh0re|whore[0-9][a-z].*[-.]
 (^|\.)www\.[0-9][a-z].*webcam|withcum|xrated|x-rated|xxx|yaoi|yiffy|zoophilia|sex|cambabe|camchick|gonewild|naughty|cams[0-9][a-z].*[-.]
+#below lines added on 10-29-20
+(^|\.)www\.[0-9][a-z].*fappen|internetgirl|girlgall|girlsgall|girlpic|girlspic|hotgirl|hotwoman|hotwomen|hotman|hotmen|hotguy|topmodel|onlyfan[0-9][a-z].*[-.]
+(^|\.)www\.[0-9][a-z].*nude|luscious|asianpic|redheadpic|blondepic|brunettepic|[0-9][a-z].*[-.]
 \.xxx$
 \.xyz$
 \.adult$
