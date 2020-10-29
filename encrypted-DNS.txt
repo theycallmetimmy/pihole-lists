@@ -22,8 +22,10 @@ doh-de.blahdns.com
 dot-de.blahdns.com
 dot-jp.blahdns.com
 dot-fi.blahdns.com
-193.17.47.1 comment=CZ.NIC
-185.43.135.1 comment=CZ.NIC
+193.17.47.1
+CZ.NIC
+185.43.135.1
+CZ.NIC
 doh.applied-privacy.net
 doh.libredns.gr
 mozilla.cloudflare-dns.com
