@@ -1,57 +1,259 @@
 #You can add this to your host file on your Raspberry Pi running Pihole and it was block them better. Or add them into regex. Or add them as a block list.
 
-blahdns.com
-nextdns.io
-dns.google
-cloudflare-dns.com
-dns9.quad9.net
-dns10.quad9.net
-doh.cleanbrowsing.org
-dns.dnsoverhttps.net
-doh.crypto.sx
-doh.powerdns.org
-doh-jp.blahdns.com
-dns.dns-over-https.com
-doh.securedns.eu
-dns.rubyfish.cn
-doh.dnswarden.com
-doh.captnemo.in
-doh.tiar.app
-doh-fi.blahdns.com
-doh-de.blahdns.com
-dot-de.blahdns.com
-dot-jp.blahdns.com
-dot-fi.blahdns.com
-193.17.47.1
-CZ.NIC
-185.43.135.1
-CZ.NIC
-doh.applied-privacy.net
-doh.libredns.gr
-mozilla.cloudflare-dns.com
-ddf57c.dns.nextdns.io
-dns.nextdns.io
-45.90.28.89
-ddf57c.dns.nextdns.io
-45.90.30.89
-ddf57c.dns.nextdns.io
-uncensored.any.dns.nixnet.xyz
-adblock.any.dns.nixnet.xyz
-uncensored.lv1.dns.nixnet.xyz
-adblock.lv1.dns.nixnet.xyz
-uncensored.ny1.dns.nixnet.xyz
-adblock.ny1.dns.nixnet.xyz
-uncensored.lux1.dns.nixnet.xyz
-adblock.lux1.dns.nixnet.xyz
-fi.dot.dns.snopyta.org
-fi.doh.dns.snopyta.org
-anycast.censurfridns.dk
-unicast.censurfridns.dk
-dns.adguard.com
-dns-family.adguard.com
-dns-unfiltered.adguard.com
-e83498.dns.nextdns.io
-45.90.28.62
-45.90.30.62
-dns1.nextdns.io
-dns2.nextdns.io
+ 1.1.1.1 
+ 1.0.0.1 
+ security.cloudflare-dns.com 
+ 1.1.1.2 
+ 1.0.0.2 
+ family.cloudflare-dns.com 
+ 1.1.1.3 
+ 1.0.0.3 
+ dns.cloudflare.com 
+ 104.17.64.4 
+ 104.17.65.4 
+ 168.235.81.167 
+ 176.56.236.175 
+ 176.103.130.131 
+ 176.103.130.130 
+ 176.103.130.132 
+ 176.103.130.134 
+ 37.252.185.229 
+ 206.189.215.75 
+ 104.24.120.142 
+ 104.24.121.142 
+ 159.69.198.101 
+ 108.61.201.119 
+ 45.32.55.94 
+ 139.59.48.222 
+ 185.228.168.168 
+ 185.228.169.168 
+ 185.228.168.10 
+ 185.228.169.11 
+ 185.228.168.9 
+ 185.228.169.9 
+ 104.16.249.249 
+ 104.16.248.249 
+ 199.58.81.218 
+ 23.92.29.236 
+ 104.28.0.106 
+ 104.28.1.106 
+ 8.8.4.4 
+ 8.8.8.8 
+ 185.95.218.42 
+ 185.95.218.43 
+ 185.222.222.222 
+ 185.184.222.222 
+ 46.101.66.244 
+ 172.64.108.27 
+ 172.64.109.27 
+ 45.77.124.64 
+ 45.32.253.116 
+ 104.236.178.232 
+ 116.203.70.156 
+ 116.203.35.255 
+ 185.134.196.54 
+ 46.227.200.55 
+ 46.227.200.54 
+ 185.134.197.54 
+ 89.234.186.112 
+ 185.157.233.92 
+ 45.90.28.0 
+ 45.90.30.0 
+ 193.17.47.1 
+ 185.43.135.1 
+ 136.144.215.158 
+ 149.112.112.112 
+ 9.9.9.9 
+ 149.112.112.9 
+ 9.9.9.10 
+ 149.112.112.10 
+ 9.9.9.11 
+ 149.112.112.11 
+ 118.126.68.223 
+ 118.89.110.78 
+ 47.96.179.163 
+ 146.185.167.43 
+ 45.76.113.31 
+ 139.99.222.72 
+ 145.100.185.15 
+ 145.100.185.16 
+ 174.138.29.175 
+ 104.28.29.34 
+ 104.28.28.34 
+ 172.104.93.80 
+ 45.77.180.10 
+ 185.216.27.142 
+ 217.169.20.23 
+ 217.169.20.22 
+ 172.65.3.223 
+ 188.60.252.16 
+ dns.oszx.co 
+ 51.38.83.141 
+ dns.pumplex.com 
+ 51.38.82.198 
+ arvind.io 
+ 206.189.142.179 
+ dns.brahma.world 
+ 94.130.224.114 
+ commons.host 
+ 139.162.131.245 
+ dns2.developer.li 
+ 51.89.22.36 
+ dns.developer.li 
+ 164.132.45.112 
+ doh.dns.sb 
+ 172.64.105.36 
+ 172.64.104.36 
+ doh.ffmuc.net 
+ 195.30.94.28 
+ 233py.com 
+ 125.77.154.35 
+ 104.27.164.27 
+ 104.27.165.27 
+ 47.101.136.37 
+ 114.115.240.175 
+ 119.29.107.85 
+ 118.24.208.197 
+ gridns.xyz 
+ 172.105.241.93 
+ 139.162.3.123 
+ public.dns.iij.jp 
+ 103.2.57.5 
+ 103.2.57.6 
+ jp.tiarap.org 
+ doh.libredns.org 
+ 146.148.56.78 
+ doh.netweaver.uk 
+ dns.twnic.tw 
+ 210.17.9.228 
+ doh.xfinity.com 
+ doh.gslb2.xfinity.com 
+ 96.113.151.141 
+ 96.113.151.142 
+ 96.113.151.143 
+ 96.113.151.147 
+ 96.113.151.148 
+ 96.113.151.149 
+ 96.113.151.150 
+ dnscrypt.ca 
+ 167.114.220.125 
+ 149.56.228.45 
+ pi-dns.com 
+ 95.216.181.228 
+ 31.220.42.65 
+ 45.67.219.208 
+ 185.213.26.187 
+ 88.198.91.187 
+ dns.t53.de 
+ 80.156.145.201 
+ snopyta.org 
+ 95.216.229.153 
+ alekberg.net 
+ 51.15.124.208 
+ 104.168.247.138 
+ 45.153.187.96 
+ dnslify.com 
+ 185.235.81.1 
+ 185.235.81.2 
+ opendns.com 
+ 146.112.41.2 
+ 146.112.41.3 
+ 208.67.222.222 
+ 208.67.220.220 
+ 208.67.222.123 
+ 208.67.220.123 
+ dnswarden.com 
+ 88.198.161.8 
+ dohdot.coxlab.net 
+ 174.68.248.77 
+ dns.hostux.net 
+ 185.26.126.37 
+ jcdns.fun 
+ 178.62.214.105 
+ doh.blockerdns.com 
+ 35.231.247.227 
+ doh.libredns.gr 
+ 116.203.115.192 
+ doh.defaultroutes.de 
+ 5.45.107.88 
+ dns.flatuslifir.is 
+ 46.239.223.80 
+ resolver-eu.lelux.fi 
+ 51.158.147.50 
+ doh.applied-privacy.net 
+ 93.177.65.183 
+ dnsforge.de 
+ 176.9.93.198 
+ 176.9.1.117 
+ dohtrial.att.net 
+ 13.89.120.251 
+ 40.76.112.230 
+ rumpelsepp.org 
+ 116.203.179.248 
+ dns.nixnet.xyz 
+ 198.251.90.114 
+ 198.251.90.89 
+ 209.141.34.95 
+ 199.195.251.84 
+ 104.244.78.231 
+ 104.18.2.55 
+ 104.18.3.55 
+ 104.18.26.128 
+ 104.18.27.128 
+ canadianshield.cira.ca 
+ 149.112.121.10 
+ 149.112.122.10 
+ 149.112.121.20 
+ 149.112.122.20 
+ 149.112.121.30 
+ 149.112.122.30 
+ ordns.he.net 
+ 74.82.42.42 
+ blahdns.com 
+ nextdns.io 
+ dns.google 
+ cloudflare-dns.com 
+ dns9.quad9.net 
+ dns10.quad9.net 
+ doh.cleanbrowsing.org 
+ dns.dnsoverhttps.net 
+ doh.crypto.sx 
+ doh.powerdns.org 
+ doh-jp.blahdns.com 
+ dns.dns-over-https.com 
+ doh.securedns.eu 
+ dns.rubyfish.cn 
+ doh.dnswarden.com 
+ doh.captnemo.in 
+ doh.tiar.app 
+ doh-fi.blahdns.com 
+ doh-de.blahdns.com 
+ dot-de.blahdns.com 
+ dot-jp.blahdns.com 
+ dot-fi.blahdns.com 
+ CZ.NIC 
+ mozilla.cloudflare-dns.com 
+ ddf57c.dns.nextdns.io 
+ dns.nextdns.io 
+ 45.90.28.89 
+ 45.90.30.89 
+ uncensored.any.dns.nixnet.xyz 
+ adblock.any.dns.nixnet.xyz 
+ uncensored.lv1.dns.nixnet.xyz 
+ adblock.lv1.dns.nixnet.xyz 
+ uncensored.ny1.dns.nixnet.xyz 
+ adblock.ny1.dns.nixnet.xyz 
+ uncensored.lux1.dns.nixnet.xyz 
+ adblock.lux1.dns.nixnet.xyz 
+ fi.dot.dns.snopyta.org 
+ fi.doh.dns.snopyta.org 
+ anycast.censurfridns.dk 
+ unicast.censurfridns.dk 
+ dns.adguard.com 
+ dns-family.adguard.com 
+ dns-unfiltered.adguard.com 
+ e83498.dns.nextdns.io 
+ 45.90.28.62 
+ 45.90.30.62 
+ dns1.nextdns.io 
+ dns2.nextdns.io 
