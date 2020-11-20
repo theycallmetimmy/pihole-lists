@@ -1,3 +1,17 @@
+apnews.com
+www.apnews.com
+cbsnews.com
+www.cbsnews.com
+upbeatnews.com
+www.upbeatnews.com
+u-s-news.com
+www.u-s-news.com
+nbcnews.com
+www.nbcnews.com
+cnn.com
+www.cnn.com
+foxnews.com
+www.foxnews.com
 aeon.co
 www.aeon.co
 scientificamerican.com
