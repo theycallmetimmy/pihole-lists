@@ -45,7 +45,7 @@
 (^|\.)www\.[0-9][a-z].*webcam|withcum|xrated|x-rated|xxx|yaoi|yiffy|zoophilia|sex|cambabe|camchick|gonewild|naughty|cams[0-9][a-z].*[-.]
 #below lines added on 10-29-20
 (^|\.)www\.[0-9][a-z].*fappen|internetgirl|girlgall|girlsgall|girlpic|girlspic|hotgirl|hotwoman|hotwomen|hotman|hotmen|hotguy|topmodel|onlyfan[0-9][a-z].*[-.]
-(^|\.)www\.[0-9][a-z].*nude|luscious|asianpic|redheadpic|blondepic|brunettepic[0-9][a-z].*[-.]
+(^|\.)www\.[0-9][a-z].*nude|luscious|asianpic|redheadpic|blondepic|brunettepic|18yo[0-9][a-z].*[-.]
 #above lines added on 10-29-20
 \.xxx$
 \.xyz$
