@@ -80,3 +80,6 @@ https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 	https://raw.githubusercontent.com/theycallmetimmy/pihole-lists/master/vpn.txt 	
 	https://raw.githubusercontent.com/theycallmetimmy/pihole-lists/master/youtube-ads.txt 	
 	https://raw.githubusercontent.com/oneoffdallas/dohservers/master/iplist.txt
+	#This last one does a very good job of blocking YouTube ads.
+	https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/master/youtubelist.txt
+
