@@ -1,0 +1,12 @@
+#This list is for information purposes only. The kid safe search engines listed below cannot and will not display porn and other bad material.
+#You can add them into your pihole/firewall as safe places for kids to search or block them, up to you.
+
+kidssearch.com
+kidtopia.info
+teachthechildrenwell.com
+kiddle.co
+lures.info
+alarms.org/kidrex
+factmonster.com
+kidzsearch.com
+safesearchkids.com
