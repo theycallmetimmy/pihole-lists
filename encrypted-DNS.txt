@@ -1,5 +1,7 @@
 #You can add this to your host file on your Raspberry Pi running Pihole and it was block them better. Or add them into regex. Or add them as a block list.
 
+rpz-public-resolver1.rrdns.pch.net
+one.one.one.one
 cloudflare-gateway.com
 www.cloudflare-gateway.com
 172.64.36.1
