@@ -1,5 +1,10 @@
 #You can add this to your host file on your Raspberry Pi running Pihole and it was block them better. Or add them into regex. Or add them as a block list.
 
+cloudflare-gateway.com
+www.cloudflare-gateway.com
+172.64.36.1
+172.64.36.2
+2a06:98c1:54::8159
  1.1.1.1 
  1.0.0.1 
  security.cloudflare-dns.com 
