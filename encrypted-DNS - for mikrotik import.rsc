@@ -2,6 +2,11 @@
 #into your router to block connections to encrypted DNS servers.
 
 /ip firewall address-list
+add address=cloudflare-gateway.com list=encrypted-DNS
+add address=www.cloudflare-gateway.com list=encrypted-DNS
+add address=172.64.36.1 list=encrypted-DNS
+add address=172.64.36.2 list=encrypted-DNS
+add address=2a06:98c1:54::8159 list=encrypted-DNS
 add address= 1.1.1.1 list=encrypted-DNS
 add address= 1.0.0.1 list=encrypted-DNS
 add address= security.cloudflare-dns.com list=encrypted-DNS
