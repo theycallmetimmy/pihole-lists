@@ -2,6 +2,8 @@
 #into your router to block connections to encrypted DNS servers.
 
 /ip firewall address-list
+add address=resolver1.opendns.com list=encrypted-DNS
+add address=resolver2.opendns.com list=encrypted-DNS
 add address=rpz-public-resolver1.rrdns.pch.net list=encrypted-DNS
 add address=one.one.one.one list=encrypted-DNS
 add address=cloudflare-gateway.com list=encrypted-DNS
