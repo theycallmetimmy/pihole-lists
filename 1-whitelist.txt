@@ -63,3 +63,9 @@ unagi.amazon.ca
 ipv6.unagi-na.amazon.com
 sos.campmobile.net
 aax-us-east.amazon-adsystem.com
+(\.|^)facebook\.com$
+forums.plex.tv
+api.amplitude.com
+api2.branch.io
+cdn.branch.io
+click.compassion-intl.com
