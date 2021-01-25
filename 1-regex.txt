@@ -43,10 +43,10 @@
 (^|\.)www\.[0-9][a-z].*sultry|teenass|teengirl|teenpenetration|teenpic|thong|threesome|tightskirt|titties|tongueina[0-9][a-z].*[-.]
 (^|\.)www\.[0-9][a-z].*topless|twat|twogirls|undressing|upskirt|vag1na|vagina|voyeur|vulva|wank|wetdream|wh0re|whore[0-9][a-z].*[-.]
 (^|\.)www\.[0-9][a-z].*webcam|withcum|xrated|x-rated|xxx|yaoi|yiffy|zoophilia|sex|cambabe|camchick|gonewild|naughty|cams[0-9][a-z].*[-.]
-#below lines updated on 1-18-21
+#below lines updated on 1-25-21
 (^|\.)www\.[0-9][a-z].*fappen|internetgirl|girlgall|girlsgall|girlpic|girlspic|hotgirl|hotwoman|hotwomen|hotman|hotmen|hotguy|topmodel|onlyfan[0-9][a-z].*[-.]
-(^|\.)www\.[0-9][a-z].*nude|luscious|asianpic|redheadpic|blondepic|brunettepic|18yo|mylf|diep|fap|fetish|vagene|software|hardcore[0-9][a-z].*[-.]
-#above lines updated on 1-18-21
+(^|\.)www\.[0-9][a-z].*nude|luscious|asianpic|redheadpic|blondepic|brunettepic|18yo|mylf|diep|fap|fetish|vagene|software|hardcore|femjoy[0-9][a-z].*[-.]
+#above lines updated on 1-25-21
 #Below lines is Japanese porn slang or questionable items that might contain porn
 (^|\.)www\.[0-9][a-z].*ecchi|oppai|anime|manga|hentai|waifu|gokkun|shinju|yuri|zenra[0-9][a-z].*[-.]
 #above lines updated on 1-18-21
