@@ -69,3 +69,4 @@ api.amplitude.com
 api2.branch.io
 cdn.branch.io
 click.compassion-intl.com
+(\.|^)coinbase\.com$
