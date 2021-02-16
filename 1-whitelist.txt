@@ -71,3 +71,5 @@ cdn.branch.io
 click.compassion-intl.com
 (\.|^)coinbase\.com$
 (\.|^)binance\.com$
+(\.|^)windowsupdate\.com$
+sls.update.microsoft.com
