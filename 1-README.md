@@ -55,7 +55,9 @@ https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 	https://raw.githubusercontent.com/theycallmetimmy/pihole-lists/master/cosmetic-surgery.txt
 	https://raw.githubusercontent.com/theycallmetimmy/pihole-lists/master/costtraps.txt 	
 	https://raw.githubusercontent.com/theycallmetimmy/pihole-lists/master/crypto-coinmining.txt 	
-	https://raw.githubusercontent.com/theycallmetimmy/pihole-lists/master/dating.txt 	
+	https://raw.githubusercontent.com/theycallmetimmy/pihole-lists/master/dating.txt
+	https://raw.githubusercontent.com/theycallmetimmy/pihole-lists/master/encrypted-DNS.txt
+	https://raw.githubusercontent.com/theycallmetimmy/pihole-lists/master/forums.txt
 	https://raw.githubusercontent.com/theycallmetimmy/pihole-lists/master/gambling.txt 	
 	https://raw.githubusercontent.com/theycallmetimmy/pihole-lists/master/government.txt 	
 	https://raw.githubusercontent.com/theycallmetimmy/pihole-lists/master/hacking-illegal.txt
@@ -66,13 +68,12 @@ https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 	https://raw.githubusercontent.com/theycallmetimmy/pihole-lists/master/searchengines_-_google-bing_allowed.txt 	
 	https://raw.githubusercontent.com/theycallmetimmy/pihole-lists/master/sex-education.txt 	
 	https://raw.githubusercontent.com/theycallmetimmy/pihole-lists/master/sex-lingerie.txt 	
-	https://raw.githubusercontent.com/theycallmetimmy/pihole-lists/master/snapchat.txt 	
+	https://raw.githubusercontent.com/theycallmetimmy/pihole-lists/master/snapchat.txt
+	https://raw.githubusercontent.com/theycallmetimmy/pihole-lists/master/socialmedia.txt
 	https://raw.githubusercontent.com/theycallmetimmy/pihole-lists/master/spyware.txt 	
 	https://raw.githubusercontent.com/theycallmetimmy/pihole-lists/master/tiktok.txt 	
 	https://raw.githubusercontent.com/theycallmetimmy/pihole-lists/master/torrents.txt 	
 	https://raw.githubusercontent.com/theycallmetimmy/pihole-lists/master/tracking.txt 	
 	https://raw.githubusercontent.com/theycallmetimmy/pihole-lists/master/vpn.txt 	
-	https://raw.githubusercontent.com/theycallmetimmy/pihole-lists/master/youtube-ads.txt 	
 	https://raw.githubusercontent.com/oneoffdallas/dohservers/master/iplist.txt
-	https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/master/youtubelist.txt
 
