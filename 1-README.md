@@ -10,17 +10,14 @@ the contents of my list into your list. Save and reboot your pihole. The same ap
 #
 If you do not wish to go through the trouble of making and importing all the lists, I have compiled my favorite lists below that you can copy and paste into your pihole. Browse to your pihole admin page, and then go to Settings>Blocklists and paste all the URL's below into the available box. Click "Save and Update" and expect to wait around 15 minutes.
 
-https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts 	
-	https://mirror1.malwaredomains.com/files/justdomains 	
+https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 	http://sysctl.org/cameleon/hosts 	
 	https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt 	
 	https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt 	
-	https://hosts-file.net/ad_servers.txt 	
 	https://github.com/ryanbr/fanboy-adblock/blob/master/popads-domains-list.txt 	
 	https://raw.githubusercontent.com/cbuijs/shallalist/master/porn/domains 	
 	https://blocklist.site/app/dl/porn 	
 	https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_all.list 	
-	https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/deanoman-adblocklist.txt 	
 	https://blocklist.site/app/dl/ads 	
 	https://blocklist.site/app/dl/fraud 	
 	https://blocklist.site/app/dl/malware 	
@@ -28,19 +25,16 @@ https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 	https://raw.githubusercontent.com/anudeepND/youtubeadsblacklist/master/domainlist.txt 	
 	https://raw.githubusercontent.com/HenningVanRaumle/pihole-ytadblock/master/ytadblock.txt 	
 	https://raw.githubusercontent.com/FleuryK/pihole-ytadblock/master/ytadblock.txt 	
-	https://blocklist.site/app/dl/proxy 	
 	https://blocklist.site/app/dl/phishing 	
 	https://blocklist.site/app/dl/redirect 	
-	https://raw.githubusercontent.com/mhxion/pornaway/master/hosts/porn_sites.txt 	
-	https://raw.githubusercontent.com/EnergizedProtection/block/master/porn/formats/hosts 	
+	https://raw.githubusercontent.com/mhxion/pornaway/master/hosts/porn_sites.txt
 	https://raw.githubusercontent.com/anudeepND/youtubeadsblacklist/master/hosts.txt 	
 	https://blocklist.site/app/dl/tracking 	
 	https://raw.githubusercontent.com/hectorm/hmirror/master/data/disconnect.me-malvertising/list.txt 	
 	https://raw.githubusercontent.com/hectorm/hmirror/master/data/disconnect.me-malware/list.txt 	
 	https://raw.githubusercontent.com/hectorm/hmirror/master/data/disconnect.me-tracking/list.txt 	
 	https://raw.githubusercontent.com/hectorm/hmirror/master/data/malwaredomainlist.com/list.txt 	
-	https://raw.githubusercontent.com/hectorm/hmirror/master/data/ransomwaretracker.abuse.ch/list.txt 	
-	https://raw.githubusercontent.com/CHEF-KOCH/NSABlocklist/master/HOSTS/HOSTS 	
+	https://raw.githubusercontent.com/hectorm/hmirror/master/data/ransomwaretracker.abuse.ch/list.txt
 	https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt 	
 	https://blocklist.site/app/dl/crypto 	
 	https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/master/black.list 	
@@ -80,6 +74,5 @@ https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 	https://raw.githubusercontent.com/theycallmetimmy/pihole-lists/master/vpn.txt 	
 	https://raw.githubusercontent.com/theycallmetimmy/pihole-lists/master/youtube-ads.txt 	
 	https://raw.githubusercontent.com/oneoffdallas/dohservers/master/iplist.txt
-	#This last one does a very good job of blocking YouTube ads.
 	https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/master/youtubelist.txt
 
