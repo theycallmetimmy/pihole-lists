@@ -335,3 +335,10 @@ plasticsurgeon*\.com
 #Attempt at blocking everything on the TOR/Onion network. Yeah I know, good luck.
 (^|\.)www\.[0-9][a-z].*torbot|orbot|orfox|torbirdy[0-9][a-z].*[-.]
 \.onion$
+
+#Possible malware from the StarTrinity packetloss software
+(\.|^)vmi420575\.contaboserver\.net$
+(\.|^)contaboserver\.net$
+(\.|^)callrecordertoemail\.com$
+(\.|^)c1\.startrinity\.com$
+(\.|^)c2\.startrinity\.com$
