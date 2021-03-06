@@ -73,3 +73,9 @@ click.compassion-intl.com
 (\.|^)binance\.com$
 (\.|^)windowsupdate\.com$
 sls.update.microsoft.com
+generalmotorscorporation.sc.omtrdc.net
+crl.microsoft.com	
+v20.events.data.microsoft.com	
+settings-win.data.microsoft.com	
+dl.delivery.mp.microsoft.com	
+v10.events.data.microsoft.com
