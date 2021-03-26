@@ -79,3 +79,5 @@ v20.events.data.microsoft.com
 settings-win.data.microsoft.com	
 dl.delivery.mp.microsoft.com	
 v10.events.data.microsoft.com
+community.spiceworks.com
+www.community.spiceworks.com
