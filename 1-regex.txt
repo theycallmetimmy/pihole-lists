@@ -324,10 +324,50 @@ plasticsurgeon*\.com
 (^|\.)www\.imgur\.com$
 
 #Entire country web domain blocking
-#Below blocks all of China and Hongkong websites
+#Below blocks all China and Hongkong based websites
 \.(cn|hk)$
-#Below blocks all of Russian websites
+#Below blocks all Korean based websites
+\.kr$
+#Below blocks all Vietnam based websites
+\.vn$
+#Below blocks all Russia based websites
 \.ru$
+#Below blocks all Ukraine based websites
+\.(ua|ukr)$
+#Below blocks all India based websites
+\.in$
+#Below blocks all Turkey based websites
+\.tr$
+#Below blocks all Dominican Republic based websites
+\.do$
+#Below blocks all Netherlands based websites
+\.nl$
+#Below blocks all Uruguay based websites
+\.uy$
+#Below blocks all Germany based websites
+\.de$
+#Below blocks all Austria based websites
+\.at$
+#Below blocks all Italy based websites
+\.it$
+#Below blocks all Serbia based websites
+\.rs$
+#Below blocks all Thailand based websites
+\.th$
+#Below blocks all Japan based websites
+\.jp$
+#Below blocks all Poland based websites
+\.pl$
+#Below blocks all Iran based websites
+\.ir$
+#Below blocks all Spain based websites
+\.es$
+#Below blocks all Czechia based websites
+\.cz$
+#Below blocks all Taiwan based websites
+\.tw$
+#Below blocks all France based websites
+\.fr$
 
 #Test website to make sure filtering is working
 (^|\.)grape\.com$
