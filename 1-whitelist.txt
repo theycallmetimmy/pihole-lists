@@ -84,3 +84,5 @@ www.community.spiceworks.com
 medium.com
 www.medium.com
 launches.appsflyer.com
+history.com
+www.history.com
