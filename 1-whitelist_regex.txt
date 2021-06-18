@@ -1,0 +1,6 @@
+(\.|^)imdb\.com$
+(\.|^)facebook\.com$
+(\.|^)coinbase\.com$
+(\.|^)binance\.com$
+(\.|^)windowsupdate\.com$
+(\.|^)azlux\.fr$
