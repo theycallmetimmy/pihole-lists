@@ -55,7 +55,6 @@ manifest.prod.boltdns.net
 github.com
 slscr.update.microsoft.com
 account.np.ac.playstation.net
-(\.|^)imdb\.com$
 ctldl.windowsupdate.com
 dmd.metaservices.microsoft.com
 unagi-na.amazon.com
@@ -63,15 +62,11 @@ unagi.amazon.ca
 ipv6.unagi-na.amazon.com
 sos.campmobile.net
 aax-us-east.amazon-adsystem.com
-(\.|^)facebook\.com$
 forums.plex.tv
 api.amplitude.com
 api2.branch.io
 cdn.branch.io
 click.compassion-intl.com
-(\.|^)coinbase\.com$
-(\.|^)binance\.com$
-(\.|^)windowsupdate\.com$
 sls.update.microsoft.com
 generalmotorscorporation.sc.omtrdc.net
 crl.microsoft.com	
@@ -86,4 +81,3 @@ www.medium.com
 launches.appsflyer.com
 history.com
 www.history.com
-(\.|^)azlux\.fr$
