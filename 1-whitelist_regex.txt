@@ -4,3 +4,4 @@
 (\.|^)binance\.com$
 (\.|^)windowsupdate\.com$
 (\.|^)azlux\.fr$
+(\.|^)download\.windowsupdate\.com$
