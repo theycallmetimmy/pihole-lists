@@ -1,0 +1,37 @@
+#If blocking youtube.com or google.com isn't an option, but you would rather filter the websites instead,
+#you will need to alter your raspberry pi hosts file, and add a couple CNAME records.
+
+#First off, access the hosts file in the /etc/ directory on your raspberry pi. No, I'm not telling you how, you should know already.
+#This is the full file and directory     /etc/hosts
+
+#Inside the hosts file add the below entries. I have added my own notes to indicate what they are because I have other entries in the file as well
+
+******************host file sample******************
+# Redirect to Google SafeSearch
+216.239.38.120	WWW.google.com
+216.239.38.120	www.google.*
+
+# Redirect to Bing SafeSearch
+204.79.197.220	www.bing.com
+
+# Entries to help pihole find filtered servers
+# Don't forget to add the CNAME records
+216.239.38.120	restrict.youtube.com
+216.239.38.119	restrictmoderate.youtube.com
+216.239.38.120	forcesafesearch.google.com
+204.79.197.220	strict.bing.com
+52.149.247.1	safe.duckduckgo.com
+******************host file sample******************
+
+#Forcing youtube-safesearch and duckduckgo-safesearch requires adding entries to your pihole admin interface, so browse there next
+#example= https://pihole-IP/admin
+#Then go to "Local DNS" and under it open up "CNAME Records"
+#Here are my entries to force duckduckgo and youtube safe search, make sure each domain matches the target
+
+Domain	                    Target
+duckduckgo.com	            safe.duckduckgo.com	
+m.youtube.com	              restrictmoderate.youtube.com	
+www.youtube-nocookie.com	  restrictmoderate.youtube.com	
+www.youtube.com	            restrictmoderate.youtube.com	
+youtube.googleapis.com	    restrictmoderate.youtube.com	
+youtubei.googleapis.com	    restrictmoderate.youtube.com
