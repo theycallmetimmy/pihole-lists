@@ -1,4 +1,6 @@
 #You can add this to your host file on your Raspberry Pi running Pihole and it was block them better. Or add them into regex. Or add them as a block list.
+#However since this list also contains IP addresses, you will need to add the IP addresses to your firewall to successfully block them.
+#Pihole will only block domains, not IP addresses.
 
 resolver1.opendns.com
 resolver2.opendns.com
