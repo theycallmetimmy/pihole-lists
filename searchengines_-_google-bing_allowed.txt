@@ -1,3 +1,10 @@
+#duckduckgo.com
+#www.duckduckgo.com
+#google.com
+#www.google.com
+#bing.com
+#www.bing.com
+
 search.yahoo.com
 boomle.com
 www.boomle.com
@@ -274,7 +281,6 @@ dogpile.co.uk
 doryoku.org
 dotsearchengine.org
 dsnextgen.com
-duckduckgo.com
 duneier.net
 durov.ru
 duttslist.com
