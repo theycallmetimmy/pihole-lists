@@ -30,11 +30,11 @@ https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 	https://raw.githubusercontent.com/mhxion/pornaway/master/hosts/porn_sites.txt
 	https://raw.githubusercontent.com/anudeepND/youtubeadsblacklist/master/hosts.txt 	
 	https://blocklist.site/app/dl/tracking 	
-	https://raw.githubusercontent.com/hectorm/hmirror/master/data/disconnect.me-malvertising/list.txt 	
-	https://raw.githubusercontent.com/hectorm/hmirror/master/data/disconnect.me-malware/list.txt 	
-	https://raw.githubusercontent.com/hectorm/hmirror/master/data/disconnect.me-tracking/list.txt 	
-	https://raw.githubusercontent.com/hectorm/hmirror/master/data/malwaredomainlist.com/list.txt 	
-	https://raw.githubusercontent.com/hectorm/hmirror/master/data/ransomwaretracker.abuse.ch/list.txt
+	#https://raw.githubusercontent.com/hectorm/hmirror/master/data/disconnect.me-malvertising/list.txt 	
+	#https://raw.githubusercontent.com/hectorm/hmirror/master/data/disconnect.me-malware/list.txt 	
+	#https://raw.githubusercontent.com/hectorm/hmirror/master/data/disconnect.me-tracking/list.txt 	
+	#https://raw.githubusercontent.com/hectorm/hmirror/master/data/malwaredomainlist.com/list.txt 	
+	#https://raw.githubusercontent.com/hectorm/hmirror/master/data/ransomwaretracker.abuse.ch/list.txt
 	https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt 	
 	https://blocklist.site/app/dl/crypto 	
 	https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/master/black.list 	
