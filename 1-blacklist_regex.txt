@@ -27,7 +27,7 @@
 (^|\.)www\.[0-9][a-z].*deepteen|demotivation|deviantart|dick|dild0|dildo|dingdong|dominatrick|dominatrix[0-9][a-z].*[-.]
 (^|\.)www\.[0-9][a-z].*doublepenetration|ejaculate|ejakulate|ejaculation|enema|erotic|erotism|eurobabe|exoticgirl[0-9][a-z].*[-.]
 (^|\.)www\.[0-9][a-z].*exoticteen|exoticwoman|exoticwomen|facialcum|facialfiesta|fagit|faggit|faggot|fags|fagz[0-9][a-z].*[-.]
-(^|\.)www\.[0-9][a-z].*fappening|fapping|femalefetish|femalesquirt|femdom|fetishfix|fleshlight|fuck|fudgepacker[0-9][a-z].*[-.]
+(^|\.)www\.[0-9][a-z].*fapping|femalefetish|femalesquirt|femdom|fetishfix|fleshlight|fuck|fudgepacker[0-9][a-z].*[-.]
 (^|\.)www\.[0-9][a-z].*fukker|fukkin|futanari|gayboy|gaygirl|gays|gayz|gilf|girlpinup|girlnextdoor|girlsgonewild[0-9][a-z].*[-.]
 (^|\.)www\.[0-9][a-z].*girlstreaking|goddam|handjob|hardcore|hentai|hooters|horni|horny|hotadult|hotass|hotbabe[0-9][a-z].*[-.]
 (^|\.)www\.[0-9][a-z].*hotbody|hotbutt|hotchick|hotgirls|hotmobile|hotredhead|hotteen|hotwife|hotwoman|hotwomen[0-9][a-z].*[-.]
@@ -44,7 +44,7 @@
 (^|\.)www\.[0-9][a-z].*topless|twat|twogirls|undressing|upskirt|vag1na|vagina|voyeur|vulva|wank|wetdream|wh0re|whore[0-9][a-z].*[-.]
 (^|\.)www\.[0-9][a-z].*webcam|withcum|xrated|x-rated|xxx|yaoi|yiffy|zoophilia|sex|cambabe|camchick|gonewild|naughty|cams[0-9][a-z].*[-.]
 (^|\.)www\.[0-9][a-z].*fappen|internetgirl|girlgall|girlsgall|girlpic|girlspic|hotgirl|hotwoman|hotwomen|hotman|hotmen|hotguy|topmodel|onlyfan[0-9][a-z].*[-.]
-(^|\.)www\.[0-9][a-z].*nude|luscious|asianpic|redheadpic|blondepic|brunettepic|18yo|mylf|diep|fetish|vagene|softcore|hardcore|femjoy|nudist[0-9][a-z].*[-.]
+(^|\.)www\.[0-9][a-z].*luscious|asianpic|redheadpic|blondepic|brunettepic|18yo|mylf|diep|fetish|vagene|softcore|hardcore|femjoy|nudist[0-9][a-z].*[-.]
 #below lines updated on 6-10-21
 (^|\.)www\.[0-9][a-z].*lewd|girlfriend|perky|nubile|babes|hotfriend[0-9][a-z].*[-.]
 #above lines updated on 6-10-21
