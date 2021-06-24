@@ -1,8 +1,9 @@
+#The last word in the catch-all strings being repeated is NOT a mistake. The string doesn't read the last word for some reason so when I repeated it
+#it finally found the last word. There is probably a better fix for it, but I don't know it.
+
 #Discovered almost all cosmetic surgeons keep gallery of their patients freely available to browse
 #Catch all rule blocks all websites with individual words listed, no matter where in the domain name it is listed
 #and no matter what country code it is hiding behind
-#The last word in the string being repeated is NOT a mistake. The string doesn't read the last word for some reason so when I repeated it
-#it found the last word. There is probably a better fix for it, but I don't know it.
 (^|\.)www\.[0-9][a-z].*|aesthetic|breast|cosmetic|cosmeticsurgery|dermatology|labiaplast|mastopexy|plasticsurgery|plasticsurgeon|surgeon|surgery|surgical|vaginoplast|obgyn|obgyn[0-9][a-z].*[-.]
 
 #This rule blocks all occurances of "dr" and "md" inside a domain name as long as a vowel doesn't follow "dr" or "md"
