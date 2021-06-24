@@ -5,3 +5,4 @@
 (\.|^)windowsupdate\.com$
 (\.|^)azlux\.fr$
 (\.|^)download\.windowsupdate\.com$
+(\.|^)msftconnecttest\.com$
