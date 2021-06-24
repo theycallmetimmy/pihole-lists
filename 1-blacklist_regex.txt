@@ -2,6 +2,7 @@
 #are not listed in pihole. I have tried removing the asterisk from the first word but that didn't seem to help. The fix I found 
 #was to place a pipe | between the asterisk and the first word in the string. (example= *|adultcontent| ) 
 #I modified all strings that contained multiple words to add a pipe | between the asterisk and the first word in the string
+#above note added on 6-24-21
 
 
 
