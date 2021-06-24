@@ -1,10 +1,12 @@
-#duckduckgo.com
-#www.duckduckgo.com
+
 #google.com
 #www.google.com
 #bing.com
 #www.bing.com
 
+#duckduckgo.com added back to be blocked as it displays too much bobs-vagene
+duckduckgo.com
+www.duckduckgo.com
 search.yahoo.com
 boomle.com
 www.boomle.com
