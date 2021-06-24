@@ -233,20 +233,20 @@
 
 #Regex rule to block all domains with listed word at the end of the domain-doesn't work if www preceeds it
 #so I added rules to indicate what it looks like with www in front
-dermatology*\.com
-(^|\.)www\.dermatology*\.com
-cosmetic*\.com
-(^|\.)www\.cosmetic*\.com
-plasticsurgery*\.com
-(^|\.)www\.plasticsurgery*\.com
-breast*\.com
-(^|\.)www\.breast*\.com
-breasts*\.com
-(^|\.)www\.breasts*\.com
-plasticsurgeon*\.com
-(^|\.)www\.plasticsurgeon*\.com
-surgery*\.com
-(^|\.)www\.surgery*\.com
+#dermatology*\.com
+#(^|\.)www\.dermatology*\.com
+#cosmetic*\.com
+#(^|\.)www\.cosmetic*\.com
+#plasticsurgery*\.com
+#(^|\.)www\.plasticsurgery*\.com
+#breast*\.com
+#(^|\.)www\.breast*\.com
+#breasts*\.com
+#(^|\.)www\.breasts*\.com
+#plasticsurgeon*\.com
+#(^|\.)www\.plasticsurgeon*\.com
+#surgery*\.com
+#(^|\.)www\.surgery*\.com
 
 #Regex rule to block all domains with listed word at the beginning of the domain
 #Rules commented out as catch-all exists at top of page
@@ -259,7 +259,6 @@ surgery*\.com
 
 #Regex rule to block exact domains no matter the country or web link(.org .net .com etc.)
 ^(.+[-_.])??gettyimages[-.]
-#^(.+[-_.])??plasticsurgery[-.]
 
 #Block all domains with listed words in the URL
 #Rules commented out as catch-all exists at top of page
