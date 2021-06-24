@@ -1,17 +1,9 @@
-#In the regex lists that contain multiple words per line, I discovered a flaw in my code. All the beginning words (example= *adultcontent| )
-#are not listed in pihole. I have tried removing the asterisk from the first word but that didn't seem to help. The fix I found 
-#was to place a pipe | between the asterisk and the first word in the string (example= *|adultcontent| ) add adding a pipe |
-#after the last word in the string.
-#I modified all strings that contained multiple words to add a pipe | between the asterisk and the first word in the string
-#and after the last word in the string.
-#above note added on 6-24-21
-
-
-
 #Discovered almost all cosmetic surgeons keep gallery of their patients freely available to browse
 #Catch all rule blocks all websites with individual words listed, no matter where in the domain name it is listed
 #and no matter what country code it is hiding behind
-(^|\.)www\.[0-9][a-z].*|aesthetic|aesthetic|aesthetics|breast|cosmetic|cosmeticsurgery|dermatology|labiaplast|mastopexy|plasticsurgery|plasticsurgeon|surgeon|surgery|surgical|vaginoplast|obgyn|[0-9][a-z].*[-.]
+#The last word in the string being repeated is NOT a mistake. The string doesn't read the last word for some reason so when I repeated it
+#it found the last word. There is probably a better fix for it, but I don't know it.
+(^|\.)www\.[0-9][a-z].*|aesthetic|breast|cosmetic|cosmeticsurgery|dermatology|labiaplast|mastopexy|plasticsurgery|plasticsurgeon|surgeon|surgery|surgical|vaginoplast|obgyn|obgyn[0-9][a-z].*[-.]
 
 #This rule blocks all occurances of "dr" and "md" inside a domain name as long as a vowel doesn't follow "dr" or "md"
 #This rule is used to block doctors websites with "dr" or "md" in the domain name
