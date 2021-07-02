@@ -79,6 +79,8 @@ www.community.spiceworks.com
 medium.com
 www.medium.com
 launches.appsflyer.com
+vortex.data.microsoft.com
+self.events.data.microsoft.com
 history.com
 www.history.com
 ws.pusherapp.com
