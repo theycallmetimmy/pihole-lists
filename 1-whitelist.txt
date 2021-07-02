@@ -82,3 +82,5 @@ launches.appsflyer.com
 history.com
 www.history.com
 ws.pusherapp.com
+v.w-x.co
+s.w-x.co
