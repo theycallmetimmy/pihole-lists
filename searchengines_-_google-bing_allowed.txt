@@ -7,6 +7,8 @@
 #duckduckgo.com added back to be blocked as it displays too much bobs-vagene
 duckduckgo.com
 www.duckduckgo.com
+search-engine-list.com
+www.search-engine-list.com
 search.yahoo.com
 boomle.com
 www.boomle.com
