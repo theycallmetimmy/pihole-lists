@@ -5,6 +5,16 @@
 #www.bing.com
 
 #duckduckgo.com added back to be blocked as it displays too much bobs-vagene
+fotki.com
+www.fotki.com
+search.fotki.com
+www.search.fotki.com
+duplichecker.com
+www.duplichecker.com
+same.energy
+www.same.energy
+snapsearch.online
+www.snapsearch.online
 duckduckgo.com
 www.duckduckgo.com
 search-engine-list.com
