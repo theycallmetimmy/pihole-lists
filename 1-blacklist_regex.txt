@@ -68,6 +68,8 @@
 \.webcam$
 \.wtf$
 \.exposed$
+#added .red domain extension on 8/31/21
+\.red$
 
 #ADS
 (^|\.)advrts.onelouder\.com$
