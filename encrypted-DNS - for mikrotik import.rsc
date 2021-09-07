@@ -168,8 +168,6 @@ add address= 185.235.81.2 list=encrypted-DNS
 add address= opendns.com list=encrypted-DNS
 add address= 146.112.41.2 list=encrypted-DNS
 add address= 146.112.41.3 list=encrypted-DNS
-add address= 208.67.222.222 list=encrypted-DNS
-add address= 208.67.220.220 list=encrypted-DNS
 add address= 208.67.222.123 list=encrypted-DNS
 add address= 208.67.220.123 list=encrypted-DNS
 add address= dnswarden.com list=encrypted-DNS
