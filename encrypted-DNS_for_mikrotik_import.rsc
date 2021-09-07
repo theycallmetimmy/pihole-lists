@@ -2,6 +2,7 @@
 #into your router to block connections to encrypted DNS servers.
 #I have commented out the repeating DNS entries since I use a MikroTik and it resolves the hostname for me, thus 
 #resulting in repeated entries.
+#I can never get the full list to import, not sure why.
 
 #add address= 1.1.1.3 list=encrypted-DNS
 #add address= 1.0.0.3 list=encrypted-DNS
@@ -16,7 +17,21 @@
 #add address= 35.231.247.227 list=encrypted-DNS
 #add address= 74.82.42.42 list=encrypted-DNS
 #add address= 149.112.112.10 list=encrypted-DNS
-
+#add address= 172.67.173.59 list=encrypted-DNS
+#add address= 9.9.9.10 list=encrypted-DNS
+#add address= 95.216.212.177 list=encrypted-DNS
+#add address= 139.162.112.47 list=encrypted-DNS
+#add address= 78.46.244.143 list=encrypted-DNS
+#add address= 103.2.57.5 list=encrypted-DNS
+#add address= 96.113.151.150 list=encrypted-DNS
+#add address= 95.216.229.153 list=encrypted-DNS
+#add address= 51.158.147.50 list=encrypted-DNS
+#add address= 176.9.93.198 list=encrypted-DNS
+#add address= 176.9.1.117 list=encrypted-DNS
+#add address= 96.113.151.149 list=encrypted-DNS
+#add address= 80.156.145.201 list=encrypted-DNS
+#add address= 13.89.120.251 list=encrypted-DNS
+#add address= 40.76.112.230 list=encrypted-DNS
 
 /ip firewall address-list
 add address=resolver1.opendns.com list=encrypted-DNS
@@ -84,7 +99,7 @@ add address= 185.43.135.1 list=encrypted-DNS
 add address= 136.144.215.158 list=encrypted-DNS
 add address= 9.9.9.9 list=encrypted-DNS
 add address= 149.112.112.9 list=encrypted-DNS
-add address= 9.9.9.10 list=encrypted-DNS
+add address= dns10.quad9.net list=encrypted-DNS
 add address= 9.9.9.11 list=encrypted-DNS
 add address= 149.112.112.11 list=encrypted-DNS
 add address= 118.126.68.223 list=encrypted-DNS
@@ -135,7 +150,6 @@ add address= gridns.xyz list=encrypted-DNS
 add address= 172.105.241.93 list=encrypted-DNS
 add address= 139.162.3.123 list=encrypted-DNS
 add address= public.dns.iij.jp list=encrypted-DNS
-add address= 103.2.57.5 list=encrypted-DNS
 add address= jp.tiarap.org list=encrypted-DNS
 add address= doh.libredns.org list=encrypted-DNS
 add address= 146.148.56.78 list=encrypted-DNS
@@ -149,8 +163,6 @@ add address= 96.113.151.142 list=encrypted-DNS
 add address= 96.113.151.143 list=encrypted-DNS
 add address= 96.113.151.147 list=encrypted-DNS
 add address= 96.113.151.148 list=encrypted-DNS
-add address= 96.113.151.149 list=encrypted-DNS
-add address= 96.113.151.150 list=encrypted-DNS
 add address= dnscrypt.ca list=encrypted-DNS
 add address= 167.114.220.125 list=encrypted-DNS
 add address= 149.56.228.45 list=encrypted-DNS
@@ -161,9 +173,7 @@ add address= 45.67.219.208 list=encrypted-DNS
 add address= 185.213.26.187 list=encrypted-DNS
 add address= 88.198.91.187 list=encrypted-DNS
 add address= dns.t53.de list=encrypted-DNS
-add address= 80.156.145.201 list=encrypted-DNS
 add address= snopyta.org list=encrypted-DNS
-add address= 95.216.229.153 list=encrypted-DNS
 add address= alekberg.net list=encrypted-DNS
 add address= 51.15.124.208 list=encrypted-DNS
 add address= 104.168.247.138 list=encrypted-DNS
@@ -191,15 +201,10 @@ add address= 5.45.107.88 list=encrypted-DNS
 add address= dns.flatuslifir.is list=encrypted-DNS
 add address= 46.239.223.80 list=encrypted-DNS
 add address= resolver-eu.lelux.fi list=encrypted-DNS
-add address= 51.158.147.50 list=encrypted-DNS
 add address= doh.applied-privacy.net list=encrypted-DNS
 add address= 93.177.65.183 list=encrypted-DNS
 add address= dnsforge.de list=encrypted-DNS
-add address= 176.9.93.198 list=encrypted-DNS
-add address= 176.9.1.117 list=encrypted-DNS
 add address= dohtrial.att.net list=encrypted-DNS
-add address= 13.89.120.251 list=encrypted-DNS
-add address= 40.76.112.230 list=encrypted-DNS
 add address= rumpelsepp.org list=encrypted-DNS
 add address= 116.203.179.248 list=encrypted-DNS
 add address= dns.nixnet.xyz list=encrypted-DNS
@@ -225,7 +230,6 @@ add address= nextdns.io list=encrypted-DNS
 add address= dns.google list=encrypted-DNS
 add address= cloudflare-dns.com list=encrypted-DNS
 add address= dns9.quad9.net list=encrypted-DNS
-add address= dns10.quad9.net list=encrypted-DNS
 add address= doh.cleanbrowsing.org list=encrypted-DNS
 add address= dns.dnsoverhttps.net list=encrypted-DNS
 add address= doh.crypto.sx list=encrypted-DNS
@@ -268,11 +272,6 @@ add address= 45.90.28.62 list=encrypted-DNS
 add address= 45.90.30.62 list=encrypted-DNS
 add address= dns1.nextdns.io list=encrypted-DNS
 add address= dns2.nextdns.io list=encrypted-DNS
-add address= 172.67.173.59 list=encrypted-DNS
-add address= dns10.quad9.net list=encrypted-DNS
-add address= 95.216.212.177 list=encrypted-DNS
-add address= 139.162.112.47 list=encrypted-DNS
-add address= 78.46.244.143 list=encrypted-DNS
 
 #Below are new on 8/19/21#
 add address= dns-nyc.aaflalo.me list=encrypted-DNS
