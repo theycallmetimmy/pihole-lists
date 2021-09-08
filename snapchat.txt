@@ -78,6 +78,12 @@ ghostdex.app
 www.ghostdex.app
 old.snapdex.com
 www.old.snapdex.com
+snapusers.home.blog
+www.snapusers.home.blog
+celebritydiscover.com
+www.celebritydiscover.com
+celebrevealer.com
+www.celebrevealer.com
 
 # Location?
 loca.sc-jpl.com
