@@ -70,7 +70,7 @@
 \.exposed$
 #added below domain extensions on 8/31/21
 \.red$
-\.ma$
+\.win$
 
 #ADS
 (^|\.)advrts.onelouder\.com$
