@@ -70,7 +70,10 @@
 \.exposed$
 #added below domain extensions on 8/31/21
 \.red$
+#this is a gambling website(s) extension
 \.win$
+#social media websites can use this extension
+\.social$
 
 #ADS
 (^|\.)advrts.onelouder\.com$
