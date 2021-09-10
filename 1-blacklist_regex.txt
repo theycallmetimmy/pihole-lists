@@ -12,6 +12,18 @@
 #dr[^aeiou]
 #md[^aeiou]
 
+########EXPERIMENTAL WHITELISTING AND BLOCKING########
+#I wanted to block the word "gif" if it appears in ANY website, but then it also blocks legitimate words like "gift.
+#To block "gif" but not block "gift", you have to add "gift" in a REGEX whitelist first, then add "gif" into a blacklist.
+#This also will not block "gif" if it's content contained within a website (example https://facebook.com/gallery/pictures.gif), 
+#it ONLY blocks it if the website name contains "gif" (example https://funnygifs.com).
+#Add this line to your Whitelist, make sure you enter it as a "Regex Filter"
+(^|\.)www\.[0-9][a-z].*|gift|gift[0-9][a-z].*[-.]
+
+#Add this line to your Blacklist, make sure you enter it as a "Regex Filter"
+(^|\.)www\.[0-9][a-z].*|gif|gif[0-9][a-z].*[-.]
+########EXPERIMENTAL WHITELISTING AND BLOCKING########
+
 #Catch all rules for common porn names in domain name
 (^|\.)www\.[0-9][a-z].*|adultcontent|adultentertainment|adultimage|adultpic|amateur|amateurbrunette|amateurcum|amateurcum[0-9][a-z].*[-.]
 (^|\.)www\.[0-9][a-z].*|amateurfacial|amateurgirl|amateurpetite|amateurteen|amateurwife|amateurwoman|amateurwomen|amateurwomen[0-9][a-z].*[-.]
