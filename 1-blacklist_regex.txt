@@ -18,10 +18,10 @@
 #This also will not block "gif" if it's content contained within a website (example https://facebook.com/gallery/pictures.gif), 
 #it ONLY blocks it if the website name contains "gif" (example https://funnygifs.com).
 #Add this line to your Whitelist, make sure you enter it as a "Regex Filter"
-(^|\.)www\.[0-9][a-z].*|gift|gift[0-9][a-z].*[-.]
+(^|\.)www\.[0-9][a-z].*|gift|tropic|eclipse|topic|topic[0-9][a-z].*[-.]
 
 #Add this line to your Blacklist, make sure you enter it as a "Regex Filter"
-(^|\.)www\.[0-9][a-z].*|gif|gif[0-9][a-z].*[-.]
+(^|\.)www\.[0-9][a-z].*|gif|clips|pics|pics[0-9][a-z].*[-.]
 ########EXPERIMENTAL WHITELISTING AND BLOCKING########
 
 #Catch all rules for common porn names in domain name
@@ -58,7 +58,7 @@
 (^|\.)www\.[0-9][a-z].*|fappen|internetgirl|girlgall|girlsgall|girlpic|girlspic|hotgirl|hotwoman|hotwomen|hotman|hotmen|hotguy|topmodel|onlyfan|onlyfan[0-9][a-z].*[-.]
 (^|\.)www\.[0-9][a-z].*|luscious|asianpic|redheadpic|blondepic|brunettepic|18yo|mylf|diep|fetish|vagene|softcore|hardcore|femjoy|nudist|nudist[0-9][a-z].*[-.]
 #below lines updated on 9-9-21
-(^|\.)www\.[0-9][a-z].*|lewd|girlfriend|perky|nubile|babes|hotfriend|ladyboy|myhot|fansshare|bosom|girl|hugetit|bigtit|titis|perfecttit|hottit|funtit|juicytit|juicytit[0-9][a-z].*[-.]
+(^|\.)www\.[0-9][a-z].*|lewd|girlfriend|perky|nubile|babes|hotfriend|ladyboy|myhot|fansshare|bosom|girl|hugetit|bigtit|titis|perfecttit|hottit|funtit|juicytit|booty|adult|hotcam|hot-teen|hot-mom|hotteen|hotmom|fineass|tits|img|img[0-9][a-z].*[-.]
 #above lines updated on 9-9-21
 #Below lines is Japanese porn slang or questionable items that might contain porn
 (^|\.)www\.[0-9][a-z].*|ecchi|oppai|anime|manga|hentai|waifu|gokkun|shinju|yuri|zenra|zenra[0-9][a-z].*[-.]
@@ -84,6 +84,7 @@
 \.red$
 #this is a gambling website(s) extension
 \.win$
+\.bingo$
 #social media websites can use this extension
 \.social$
 
