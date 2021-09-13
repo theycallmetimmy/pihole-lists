@@ -21,7 +21,7 @@
 (^|\.)www\.[0-9][a-z].*|gift|tropic|eclipse|topic|ytimg|ytimg[0-9][a-z].*[-.]
 
 #Add this line to your Blacklist, make sure you enter it as a "Regex Filter"
-(^|\.)www\.[0-9][a-z].*|gif|clips|pics|pics[0-9][a-z].*[-.]
+(^|\.)www\.[0-9][a-z].*|gif|clips|pics|img|img[0-9][a-z].*[-.]
 ########EXPERIMENTAL WHITELISTING AND BLOCKING########
 
 #Catch all rules for common porn names in domain name
@@ -57,7 +57,7 @@
 (^|\.)www\.[0-9][a-z].*|webcam|withcum|xrated|x-rated|xxx|yaoi|yiffy|zoophilia|sex|cambabe|camchick|gonewild|naughty|cams|cams[0-9][a-z].*[-.]
 (^|\.)www\.[0-9][a-z].*|fappen|internetgirl|girlgall|girlsgall|girlpic|girlspic|hotgirl|hotwoman|hotwomen|hotman|hotmen|hotguy|topmodel|onlyfan|onlyfan[0-9][a-z].*[-.]
 (^|\.)www\.[0-9][a-z].*|luscious|asianpic|redheadpic|blondepic|brunettepic|18yo|mylf|diep|fetish|vagene|softcore|hardcore|femjoy|nudist|nudist[0-9][a-z].*[-.]
-(^|\.)www\.[0-9][a-z].*|lewd|girlfriend|perky|nubile|babes|hotfriend|ladyboy|myhot|fansshare|bosom|girl|hugetit|bigtit|titis|perfecttit|hottit|funtit|juicytit|booty|adult|hotcam|hot-teen|hot-mom|hotteen|hotmom|fineass|tits|img|img[0-9][a-z].*[-.]
+(^|\.)www\.[0-9][a-z].*|lewd|girlfriend|perky|nubile|babes|hotfriend|ladyboy|myhot|fansshare|bosom|girl|hugetit|bigtit|titis|perfecttit|hottit|funtit|juicytit|booty|adult|hotcam|hot-teen|hot-mom|hotteen|hotmom|fineass|tits[0-9][a-z].*[-.]
 #below lines updated on 9-12-21
 (^|\.)www\.[0-9][a-z].*|realcam|realcam[0-9][a-z].*[-.]
 #above lines updated on 9-12-21
