@@ -18,7 +18,7 @@
 #This also will not block "gif" if it's content contained within a website (example https://facebook.com/gallery/pictures.gif), 
 #it ONLY blocks it if the website name contains "gif" (example https://funnygifs.com).
 #Add this line to your Whitelist, make sure you enter it as a "Regex Filter"
-(^|\.)www\.[0-9][a-z].*|gift|tropic|eclipse|topic|topic[0-9][a-z].*[-.]
+(^|\.)www\.[0-9][a-z].*|gift|tropic|eclipse|topic|ytimg|ytimg[0-9][a-z].*[-.]
 
 #Add this line to your Blacklist, make sure you enter it as a "Regex Filter"
 (^|\.)www\.[0-9][a-z].*|gif|clips|pics|pics[0-9][a-z].*[-.]
