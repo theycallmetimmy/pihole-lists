@@ -17,6 +17,7 @@
 #To block "gif" but not block "gift", you have to add "gift" in a REGEX whitelist first, then add "gif" into a blacklist.
 #This also will not block "gif" if it's content contained within a website (example https://facebook.com/gallery/pictures.gif), 
 #it ONLY blocks it if the website name contains "gif" (example https://funnygifs.com).
+#I tried adding "img" but there is too many legit websites that use it.
 #Add this line to your Whitelist, make sure you enter it as a "Regex Filter"
 (^|\.)www\.[0-9][a-z].*|gift|tropic|eclipse|topic|topic[0-9][a-z].*[-.]
 
