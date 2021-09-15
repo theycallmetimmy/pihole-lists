@@ -84,11 +84,14 @@
 \.exposed$
 #added below domain extensions on 8/31/21
 \.red$
-#this is a gambling website(s) extension
+\.vip$
+#these are gambling website extensions
 \.win$
 \.bingo$
 #social media websites can use this extension
 \.social$
+#Too much porn from these domain extensions
+\.mobi$
 
 #ADS
 (^|\.)advrts.onelouder\.com$
@@ -389,6 +392,8 @@ plasticsurgeon*\.com
 \.tw$
 #Below blocks all France based websites
 \.fr$
+#Below blocks all European Union based websites
+\.eu$
 
 #Test website to make sure filtering is working
 (^|\.)grape\.com$
