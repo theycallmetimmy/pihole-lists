@@ -20,7 +20,7 @@
 #I tried adding "img" but there is too many legit websites that use it.
 # I added "xx" but you also need to add a whitelist for xx.fbcdn.net for facebook. Dumb facebook.
 #Add this line to your Whitelist, make sure you enter it as a "Regex Filter"
-(^|\.)www\.[0-9][a-z].*|gift|tropic|eclipse|topic|topic[0-9][a-z].*[-.]
+(^|\.)www\.[0-9][a-z].*|gift|tropic|eclipse|topic|img-getpocket|ytimg|ebayimg|ebayimg[0-9][a-z].*[-.]
 
 #Add this line to your Blacklist, make sure you enter it as a "Regex Filter"
 (^|\.)www\.[0-9][a-z].*|gif|clips|pics|xx|xx[0-9][a-z].*[-.]
