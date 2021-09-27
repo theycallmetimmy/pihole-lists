@@ -23,7 +23,7 @@
 (^|\.)www\.[0-9][a-z].*|gift|eclipse|img-getpocket|ytimg|ebayimg|ebayimg[0-9][a-z].*[-.]
 
 #Add this line to your Blacklist, make sure you enter it as a "Regex Filter"
-(^|\.)www\.[0-9][a-z].*|gif|clips|xx|xx[0-9][a-z].*[-.]
+(^|\.)www\.[0-9][a-z].*|gif|clips|xx|gfs|gfs[0-9][a-z].*[-.]
 ########EXPERIMENTAL WHITELISTING AND BLOCKING########
 
 #Catch all rules for common porn names in domain name
@@ -61,7 +61,7 @@
 (^|\.)www\.[0-9][a-z].*|luscious|asianpic|redheadpic|blondepic|brunettepic|18yo|mylf|diep|fetish|vagene|softcore|hardcore|femjoy|nudist|nudist[0-9][a-z].*[-.]
 (^|\.)www\.[0-9][a-z].*|lewd|girlfriend|perky|nubile|babes|hotfriend|ladyboy|myhot|fansshare|bosom|girl|hugetit|bigtit|titis|perfecttit|hottit|funtit|juicytit|booty|adult|hotcam|hot-teen|hot-mom|hotteen|hotmom|fineass|tits|tits[0-9][a-z].*[-.]
 #below lines updated on 9-27-21
-(^|\.)www\.[0-9][a-z].*|realcam|xvideo|teen|pleasure|boudoir|nudism|gfs|gfs[0-9][a-z].*[-.]
+(^|\.)www\.[0-9][a-z].*|realcam|xvideo|teen|pleasure|boudoir|nudism|nudism[0-9][a-z].*[-.]
 #above lines updated on 9-27-21
 #Below lines is Japanese porn slang or questionable items that might contain porn
 (^|\.)www\.[0-9][a-z].*|ecchi|oppai|anime|manga|hentai|waifu|gokkun|shinju|yuri|zenra|zenra[0-9][a-z].*[-.]
