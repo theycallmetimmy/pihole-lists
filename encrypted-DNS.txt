@@ -328,6 +328,7 @@ www.cloudflare-gateway.com
  hydra.plan9-ns1.com 
  draco.plan9-ns2.com 
  dns.quad9.net 
+ dns9.quad9.net
  dns10.quad9.net 
  dns11.quad9.net 
  basic.rethinkdns.com 
