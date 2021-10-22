@@ -221,9 +221,7 @@ www.cloudflare-gateway.com
  blahdns.com 
  nextdns.io 
  dns.google 
- cloudflare-dns.com 
- dns9.quad9.net 
- dns10.quad9.net 
+ cloudflare-dns.com  
  doh.cleanbrowsing.org 
  dns.dnsoverhttps.net 
  doh.crypto.sx 
@@ -326,7 +324,7 @@ www.cloudflare-gateway.com
  dns.moulticast.net 
  doh.post-factum.tk 
  hydra.plan9-ns1.com 
- draco.plan9-ns2.com 
+ draco.plan9-ns2.com
  dns.quad9.net 
  dns9.quad9.net
  dns10.quad9.net 
