@@ -5739,7 +5739,6 @@ forum.xbox-sports.com
 forum.xboxworld.nl
 forum.x-cart.com
 forum.xchat.org
-forum.xda-developers.com
 forum.xenostorm.net
 forum.xentax.com
 forum.xfce.org
