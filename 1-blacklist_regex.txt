@@ -19,14 +19,16 @@
 #it ONLY blocks it if the website name contains "gif" (example https://funnygifs.com).
 #I tried adding "img" but there is too many legit websites that use it.
 # I added "xx" but you also need to add a whitelist for xx.fbcdn.net for facebook. Dumb facebook.
-#Add this line to your Whitelist, make sure you enter it as a "Regex Filter"
+#Add these two lines to your Whitelist, make sure you enter it as a "Regex Filter"
 (^|\.)www\.[0-9][a-z].*|gift|eclipse|img-getpocket|ytimg|ebayimg|ebayimg[0-9][a-z].*[-.]
+(\.|^)xx\.fbcdn\.net$
 
 #Add this line to your Blacklist, make sure you enter it as a "Regex Filter"
 (^|\.)www\.[0-9][a-z].*|gif|clips|xx|gfs|gfs[0-9][a-z].*[-.]
 ########EXPERIMENTAL WHITELISTING AND BLOCKING########
 
 #Catch all rules for common porn names in domain name
+#These regex rules will catch most porn, keyword here MOST
 (^|\.)www\.[0-9][a-z].*|adultcontent|adultentertainment|adultimage|adultpic|amateur|amateurbrunette|amateurcum|amateurcum[0-9][a-z].*[-.]
 (^|\.)www\.[0-9][a-z].*|amateurfacial|amateurgirl|amateurpetite|amateurteen|amateurwife|amateurwoman|amateurwomen|amateurwomen[0-9][a-z].*[-.]
 (^|\.)www\.[0-9][a-z].*|analbest|bestanal|analgif|anilingus|autoerotic|autoerotic[0-9][a-z].*[-.]
@@ -60,9 +62,9 @@
 (^|\.)www\.[0-9][a-z].*|fappen|internetgirl|girlgall|girlsgall|girlpic|girlspic|hotgirl|hotwoman|hotwomen|hotman|hotmen|hotguy|topmodel|onlyfan|onlyfan[0-9][a-z].*[-.]
 (^|\.)www\.[0-9][a-z].*|luscious|asianpic|redheadpic|blondepic|brunettepic|18yo|mylf|diep|fetish|vagene|softcore|hardcore|femjoy|nudist|nudist[0-9][a-z].*[-.]
 (^|\.)www\.[0-9][a-z].*|lewd|girlfriend|perky|nubile|babes|hotfriend|ladyboy|myhot|fansshare|bosom|girl|hugetit|bigtit|titis|perfecttit|hottit|funtit|juicytit|booty|adult|hotcam|hot-teen|hot-mom|hotteen|hotmom|fineass|tits|tits[0-9][a-z].*[-.]
-#below lines updated on 10-8-21
-(^|\.)www\.[0-9][a-z].*|realcam|xvideo|teen|pleasure|boudoir|nudism|models|celebs|xpic|wetpics|spankbang|spankbang[0-9][a-z].*[-.]
-#above lines updated on 10-8-21
+#below lines updated on 11-19-21
+(^|\.)www\.[0-9][a-z].*|realcam|xvideo|teen|pleasure|boudoir|nudism|models|celebs|xpic|wetpics|spankbang|mature|mature[0-9][a-z].*[-.]
+#above lines updated on 11-19-21
 #Below lines is Japanese porn slang or questionable items that might contain porn
 (^|\.)www\.[0-9][a-z].*|ecchi|oppai|anime|manga|hentai|waifu|gokkun|shinju|yuri|zenra|zenra[0-9][a-z].*[-.]
 #above lines updated on 1-18-21
