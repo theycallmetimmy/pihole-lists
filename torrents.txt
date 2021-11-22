@@ -2330,8 +2330,34 @@ zvukoff.ru
 zvukovorot.com
 
 #Removed from whitelist and added here
+9.rarbg.to
 rarbg.to
+www.rarbg.to
 wsmmirror.info
+www.wsmmirror.info
 tracker.leechers-paradise.org
+leechers-paradise.org
+www.leechers-paradise.org
 tracker.opentrackr.org
+www.tracker.opentrackr.org
 tracker.openbittorrent.com
+tracker.internetwarriors.net
+www.internetwarriors.net
+tracker.coppersurfer.tk
+www.coppersurfer.tk
+tracker.pirateparty.gr
+www.pirateparty.gr
+tracker.cyberia.is
+www.cyberia.is
+open.demonii.si
+www.demonii.si
+open.stealth.si
+www.stealth.si
+exodus.desync.com
+www.desync.com
+explodie.org
+www.explodie.org
+tracker.cyber-hub.net
+www.cyber-hub.net
+9.rarbg.me
+www.rarbg.me
