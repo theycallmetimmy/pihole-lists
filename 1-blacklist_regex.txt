@@ -62,9 +62,9 @@
 (^|\.)www\.[0-9][a-z].*|fappen|internetgirl|girlgall|girlsgall|girlpic|girlspic|hotgirl|hotwoman|hotwomen|hotman|hotmen|hotguy|topmodel|onlyfan|onlyfan[0-9][a-z].*[-.]
 (^|\.)www\.[0-9][a-z].*|luscious|asianpic|redheadpic|blondepic|brunettepic|18yo|mylf|diep|fetish|vagene|softcore|hardcore|femjoy|nudist|nudist[0-9][a-z].*[-.]
 (^|\.)www\.[0-9][a-z].*|lewd|girlfriend|perky|nubile|babes|hotfriend|ladyboy|myhot|fansshare|bosom|girl|hugetit|bigtit|titis|perfecttit|hottit|funtit|juicytit|booty|adult|hotcam|hot-teen|hot-mom|hotteen|hotmom|fineass|tits|tits[0-9][a-z].*[-.]
-#below lines updated on 11-19-21
-(^|\.)www\.[0-9][a-z].*|realcam|xvideo|teen|pleasure|boudoir|nudism|models|celebs|xpic|wetpics|spankbang|mature|mature[0-9][a-z].*[-.]
-#above lines updated on 11-19-21
+#below lines updated on 12-10-21
+(^|\.)www\.[0-9][a-z].*|realcam|xvideo|teen|pleasure|boudoir|nudism|models|celebs|xpic|wetpics|spankbang|mature|thot|thot[0-9][a-z].*[-.]
+#above lines updated on 12-10-21
 #Below lines is Japanese porn slang or questionable items that might contain porn
 (^|\.)www\.[0-9][a-z].*|ecchi|oppai|anime|manga|hentai|waifu|gokkun|shinju|yuri|zenra|zenra[0-9][a-z].*[-.]
 #above lines updated on 1-18-21
