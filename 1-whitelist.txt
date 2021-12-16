@@ -90,3 +90,4 @@ cognito-identity.us-east-1.amazonaws.com
 pinpoint.us-east-1.amazonaws.com	
 api.band.us
 yahoo.com
+packages.dmd.metaservices.microsoft.com
