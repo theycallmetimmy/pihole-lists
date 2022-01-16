@@ -8,7 +8,8 @@
 (\.|^)msftconnecttest\.com$
 (\.|^)delivery\.mp\.microsoft\.com$
 (\.|^)nordvpn\.com$
-(^|\.)www\.[0-9][a-z].*|gift|tropic|eclipse|topic|img-getpocket|ytimg|ebayimg|ebayimg[0-9][a-z].*[-.]
 (\.|^)xx\.fbcdn\.net$
 (\.|^)forum\.videolan\.org$
 (\.|^)aax-us-iad\.amazon\.com$
+#Had to update this one to whitelist Netflix videos
+(^|\.)www\.[0-9][a-z].*|gift|tropic|eclipse|topic|img-getpocket|ytimg|ebayimg|nflxvideo|nflxvideo[0-9][a-z].*[-.]
