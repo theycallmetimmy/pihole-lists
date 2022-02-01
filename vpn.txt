@@ -1,3 +1,6 @@
+vpn.mozilla.org
+www.vpn.mozilla.org
+
 0001.cld.devnullhost.com
 0001.svr.devnullhost.com
 0126800067.0.fullrate.dk
