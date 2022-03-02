@@ -76,4 +76,5 @@ https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 	https://raw.githubusercontent.com/theycallmetimmy/pihole-lists/master/tracking.txt 	
 	https://raw.githubusercontent.com/theycallmetimmy/pihole-lists/master/vpn.txt 	
 	https://raw.githubusercontent.com/oneoffdallas/dohservers/master/iplist.txt
+https://www.github.developerdan.com/hosts/lists/dating-services-extended.txt
 
