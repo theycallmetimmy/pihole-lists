@@ -13,3 +13,7 @@
 (\.|^)aax-us-iad\.amazon\.com$
 #Had to update this one to whitelist Netflix videos
 (^|\.)www\.[0-9][a-z].*|gift|tropic|eclipse|topic|img-getpocket|ytimg|ebayimg|nflxvideo|nflxvideo[0-9][a-z].*[-.]
+
+(\.|^)onlinechristiancourses\.com$
+(\.|^)fast\.wistia\.com$
+(\.|^)adaptive\.akamaized\.net$
