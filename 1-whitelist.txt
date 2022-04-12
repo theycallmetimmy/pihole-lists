@@ -91,3 +91,7 @@ pinpoint.us-east-1.amazonaws.com
 api.band.us
 yahoo.com
 packages.dmd.metaservices.microsoft.com
+a386xm06thrxxr-ats.iot.us-east-2.amazonaws.com
+fast.wistia.com
+js-agent.newrelic.com
+159vod-adaptive.akamaized.net
