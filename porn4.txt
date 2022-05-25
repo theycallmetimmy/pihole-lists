@@ -5,7 +5,7 @@
 #Files "porn0, porn1, porn2 and porn3" is too large to update from within Github, so I keep the file "porn4" updated instead with new entries.
 
 #The contents of file porn8 has been moved to file labeled "porn4"
-#If you have an existing Pihole installation with lists porn0-porn8 added, you can remove list porn5-porn8 since they will no longer be used.
+#If you have an existing Pihole installation with lists porn0-porn8 added, you can remove lists porn5-porn8 since they will no longer be used.
 
 #So again, files "porn0" thru "porn7" have been added into files "porn0" thru "porn3" and duplicate lines from all files removed,
 #and the contents of file "porn8" has been moved into file "porn4".
