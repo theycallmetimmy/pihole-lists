@@ -1,0 +1,10 @@
+#I have truncated all the porn lists porn0-porn7 into just one file kept in
+#porn7.txt (https://raw.githubusercontent.com/theycallmetimmy/pihole-lists/master/porn7.txt)
+#It knocked down 5,328,249 entries with duplicates to 3,123,255 entries with no duplicates.
+#Since there are Pihole installations out there that still have files porn0-porn7 in them,
+#I thought it best for the time being to just leave this message in the files instead of removing the files completely.
+
+#So again, files "porn0" thru "porn7" have been added into a single file "porn7" and duplicate lines from all files removed.
+
+#The file labeled "porn8" I am periodically updating, so I am leaving it alone so I can add new entries.
+#File "porn7" is too large to update from within Github.
