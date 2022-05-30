@@ -2,7 +2,7 @@
 #I have truncated all the porn lists porn0-porn7 into just files porn0-porn3
 #Github doesn't allow files larger than 25mb, otherwise I would place them all within a single file.
 #I knocked down 5,328,249 entries with duplicates to 3,123,255 entries with no duplicates.
-#Files "porn0, porn1, porn2 and porn3" is too large to update from within Github, so I keep the file "porn4" updated instead with new entries.
+#Files "porn0, porn1, porn2 and porn3" are too large to update from within Github, so I keep the file "porn4" updated instead with new entries.
 
 #The contents of file porn8 has been moved to file labeled "porn4"
 #If you have an existing Pihole installation with lists porn0-porn8 added, you can remove lists porn5-porn8 since they will no longer be used.
@@ -12,7 +12,10 @@
 
 #New entries are added to the top of the list
 
-
+pinduck.com
+www.pinduck.com
+leaknud.com
+www.leaknud.com
 smartandsmart.net
 ww2.smartandsmart.net
 www.smartandsmart.net
