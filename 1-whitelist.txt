@@ -95,3 +95,7 @@ a386xm06thrxxr-ats.iot.us-east-2.amazonaws.com
 fast.wistia.com
 js-agent.newrelic.com
 159vod-adaptive.akamaized.net
+jhancock.com
+www.jhancock.com
+johnhancock.com
+www.johnhancock.com
