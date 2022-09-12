@@ -1,3 +1,9 @@
+
+#This one I added to prevent Youtube watch history from being blocked. You can possible remove it if you don't filter Youtube videos
+s.youtube.com
+#This one I added to prevent Youtube watch history from being blocked. You can possible remove it if you don't filter Youtube videos
+
+#Newer entries are added to the bottom of this list
 device-api.urbanairship.com
 gmail.com
 smtp.gmail.com
@@ -99,3 +105,5 @@ jhancock.com
 www.jhancock.com
 johnhancock.com
 www.johnhancock.com
+astarac.cirad.fr
+bs.plantnet.org
