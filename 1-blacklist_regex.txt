@@ -1,7 +1,7 @@
 #The last word in the catch-all strings being repeated is NOT a mistake. The string doesn't read the last word for some reason so when I repeated it
 #it finally found the last word. There is probably a better fix for it, but I don't know it.
 
-#Discovered almost all cosmetic surgeons keep gallery of their patients freely available to browse
+#Discovered almost all cosmetic surgeons keep nude galleries of their patients freely available to browse
 #Catch all rule blocks all websites with individual words listed, no matter where in the domain name it is listed
 #and no matter what country code it is hiding behind
 (^|\.)www\.[0-9][a-z].*|aesthetic|breast|cosmetic|cosmeticsurgery|dermatology|labiaplast|mastopexy|plasticsurgery|plasticsurgeon|surgeon|surgery|surgical|vaginoplast|obgyn|obgyn[0-9][a-z].*[-.]
@@ -253,8 +253,9 @@
 (^|\.)smartbeautyguide\.com$
 (^|\.)www\.smartbeautyguide\.com$
 
-#Regex rule to block all domains with listed word at the end of the domain-doesn't work if www preceeds it
+#Example regex rules to block all domains with listed word at the end of the domain-doesn't work if www preceeds it
 #so I added rules to indicate what it looks like with www in front
+#Rules commented out as catch-all exists at top of page
 #dermatology*\.com
 #(^|\.)www\.dermatology*\.com
 #cosmetic*\.com
@@ -270,12 +271,13 @@
 #surgery*\.com
 #(^|\.)www\.surgery*\.com
 
-#Regex rule to block all domains with listed word at the beginning of the domain
+#Example regex rules to block all domains with listed word at the beginning of the domain
 #Rules commented out as catch-all exists at top of page
 #(^|\.)dermatology
 #(^|\.)cosmetic
 #(^|\.)plasticsurgery
 #(^|\.)breast
+
 #Disabled below for too many false positives
 #(^|\.)cam
 
