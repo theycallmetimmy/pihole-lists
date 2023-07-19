@@ -5,6 +5,8 @@
 #www.bing.com
 
 #duckduckgo.com added back to be blocked as it displays too much bobs-vagene
+zoomeye.org
+www.zoomeye.org
 fotki.com
 www.fotki.com
 search.fotki.com
