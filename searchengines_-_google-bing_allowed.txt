@@ -5,6 +5,28 @@
 #www.bing.com
 
 #duckduckgo.com added back to be blocked as it displays too much bobs-vagene
+wigle.net
+www.wigle.net
+fofa.info
+www.fofa.info
+en.fofa.info
+www.en.fofa.ino
+haveibeenpwned.com
+www.haveibeenpwned.com
+binaryedge.io
+www.binaryedge.io
+hunter.io
+www.hunter.io
+greynoise.io
+www.greynoise.io
+publicwww.com
+www.publicwww.com
+censys.io
+www.censys.io
+shodan.io
+www.shodan.io
+onyphe.io
+www.onyphe.io
 zoomeye.org
 www.zoomeye.org
 fotki.com
