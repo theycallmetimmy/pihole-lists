@@ -5,12 +5,13 @@
 #www.bing.com
 
 #duckduckgo.com added back to be blocked as it displays too much bobs-vagene
+search.brave.com
 wigle.net
 www.wigle.net
 fofa.info
 www.fofa.info
 en.fofa.info
-www.en.fofa.ino
+www.en.fofa.info
 haveibeenpwned.com
 www.haveibeenpwned.com
 binaryedge.io
