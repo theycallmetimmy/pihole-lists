@@ -1,10 +1,13 @@
 
+###These items are commented out so they are NOT blocked###
 #google.com
 #www.google.com
 #bing.com
 #www.bing.com
+#duckduckgo.com
+#www.duckduckgo.com
+###These items are commented out so they are NOT blocked###
 
-#duckduckgo.com added back to be blocked as it displays too much bobs-vagene
 search.brave.com
 wigle.net
 www.wigle.net
@@ -40,8 +43,6 @@ same.energy
 www.same.energy
 snapsearch.online
 www.snapsearch.online
-duckduckgo.com
-www.duckduckgo.com
 search-engine-list.com
 www.search-engine-list.com
 search.yahoo.com
