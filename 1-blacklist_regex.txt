@@ -15,7 +15,7 @@
 ########EXPERIMENTAL WHITELISTING AND BLOCKING########
 #I wanted to block the word "gif" if it appears in ANY website, but then it also blocks legitimate words like "gift.
 #To block "gif" but not block "gift", you have to add "gift" in a REGEX whitelist first, then add "gif" into a blacklist.
-#This also will not block "gif" if it's content contained within a website (example https://facebook.com/gallery/pictures.gif), 
+#This also will not block "gif" if it's contained within a website (example https://facebook.com/gallery/pictures.gif), 
 #it ONLY blocks it if the website name contains "gif" (example https://funnygifs.com).
 #I tried adding "img" but there is too many legit websites that use it.
 # I added "xx" but you also need to add a whitelist for xx.fbcdn.net for facebook. Dumb facebook.
@@ -101,6 +101,8 @@
 \.social$
 #Too much porn from these domain extensions
 \.mobi$
+#added this domain extension on 2/8/24
+\.fun$
 
 #ADS
 (^|\.)advrts.onelouder\.com$
