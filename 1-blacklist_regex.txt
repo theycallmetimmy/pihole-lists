@@ -103,6 +103,8 @@
 \.mobi$
 #added this domain extension on 2/8/24
 \.fun$
+#added this one, appears porn uses it 4/3/24
+\.watch$
 
 #ADS
 (^|\.)advrts.onelouder\.com$
