@@ -65,11 +65,12 @@
 #below lines updated on 12-31-22
 (^|\.)www\.[0-9][a-z].*|realcam|xvideo|teen|pleasure|boudoir|nudism|models|celebs|xpic|wetpics|spankbang|mature|thot|tumblr|tumblr[0-9][a-z].*[-.]
 #above lines updated on 12-31-22
-#below lines updated on 9-18-23
+#below lines updated on 7-18-24
 (^|\.)www\.[0-9][a-z].*|a-hole|asses|assho|asswi|badas|balls|been-laid|blow-job|blow-me|bullsh|butth|butti|by-god|clit|cock|cocksuck|condom|crap|damn|dipsh|douche|dyke|dyke[0-9][a-z].*[-.]
 (^|\.)www\.[0-9][a-z].*|fugly|gangbang|get-laid|got-laid|hard-on|hardon|heimy|heterose|homose|horseshi|jack-off|jackas|jacksh|jerk-off|jugs|kike|magna-cum|nooky|nooner|nooner[0-9][a-z].*[-.]
 (^|\.)www\.[0-9][a-z].*|pecker|penis|piece-of-ass|piss|prick|puntang|puss|ssh-it|spick|sucks|tittie|turd|whore|wiseass|woody|wuss|wuss[0-9][a-z].*[-.]
-#above lines updated on 9-18-23
+(^|\.)www\.[0-9][a-z].*|pawg|pawg[0-9][a-z].*[-.]
+#above lines updated on 7-18-24
 
 #Below lines is Japanese porn slang or questionable items that might contain porn
 (^|\.)www\.[0-9][a-z].*|ecchi|oppai|anime|manga|hentai|waifu|gokkun|shinju|yuri|zenra|zenra[0-9][a-z].*[-.]
