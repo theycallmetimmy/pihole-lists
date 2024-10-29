@@ -6,11 +6,11 @@
 #www.bing.com
 #duckduckgo.com
 #www.duckduckgo.com
-#search.brave.com
-#www.search.brave.com
 ###These items are commented out so they are NOT blocked###
 
 
+search.brave.com
+www.search.brave.com
 wigle.net
 www.wigle.net
 fofa.info
