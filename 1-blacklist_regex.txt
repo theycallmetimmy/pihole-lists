@@ -92,6 +92,7 @@
 \.webcam$
 \.wtf$
 \.exposed$
+\.fans$
 #added below domain extensions on 8/31/21
 \.red$
 \.vip$
