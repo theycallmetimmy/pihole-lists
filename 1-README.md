@@ -59,3 +59,7 @@ If you do not wish to go through the trouble of making and importing all the lis
 	# this needs more work, it breaks a lot of stuff     https://dl.nrd-list.com/0/nrd-list-32-days.txt	
 	# this needs more work, it breaks a lot of stuff     https://dl.threat-list.com/0/domains.txt	
 	https://raw.githubusercontent.com/jumpsmm7/GeneratedAdblock/master/NoBypass.list
+        https://v.firebog.net/hosts/AdguardDNS.txt
+        https://urlhaus.abuse.ch/downloads/hostfile
+        https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-domains.txt
+ 	https://tools.wizworks.net/cnbl.txt
