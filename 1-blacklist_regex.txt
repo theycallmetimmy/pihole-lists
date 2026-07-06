@@ -108,6 +108,7 @@
 #added this one, appears porn uses it 4/3/24
 \.watch$
 \.fans$
+\.love$
 
 #ADS
 (^|\.)advrts.onelouder\.com$
